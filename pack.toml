@@ -1,0 +1,16 @@
+name = "bloodpack"
+author = "bloodwolfe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cb0654a1e50653c9811261c0c460bf7f28e9a86e79b6ef5e9ac549115d603a74"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.4"
+
+[options]
+acceptable-game-versions = ["1.21", "1.22", "1.23"]

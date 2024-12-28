@@ -1,0 +1,66 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "437637ca80c4eeca79753714684a5302349573dc0674d6fe244579a1cee87d9e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "11498900c1289591c53106b652c4724ae2e4dab66fef92164d7cc48f598c62e8"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "9baaaf98f919bf3258f50ae0b8552a53c16d298650cb90d48cbec6f96d1ef556"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "08601df10fb926bbb8a0fe686b8c4d5f9019e06d39715dcc025d99e1ad2cee40"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "7f4eb7cddc4337e97b3f38e70c90f26a0d58ed69c58d6292d22960144db9d098"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "9402e803a77c480fc1ea53dba5c8790af396eaa9a494376e76847bd49c050a07"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "0c4644aa15fa792066ae1c09fe4b03cb5af53d5686cde2917207641a7217bc29"
+metafile = true

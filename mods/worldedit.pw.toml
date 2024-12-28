@@ -1,0 +1,13 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.3.10-beta-01.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1u6JkXh5/versions/rIYOU6Ta/worldedit-mod-7.3.10-beta-01.jar"
+hash-format = "sha1"
+hash = "ed699fb9299124301a0742b02da730c19eb2de67"
+
+[update]
+[update.modrinth]
+mod-id = "1u6JkXh5"
+version = "rIYOU6Ta"
