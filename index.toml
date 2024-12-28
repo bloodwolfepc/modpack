@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e5287e0bfeaec81c0108148e7fd39ddcdd7f372428c157aef89a8e7fcdb6d156"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "437637ca80c4eeca79753714684a5302349573dc0674d6fe244579a1cee87d9e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
 metafile = true
 
 [[files]]
@@ -16,8 +26,18 @@ hash = "11498900c1289591c53106b652c4724ae2e4dab66fef92164d7cc48f598c62e8"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2e368d4fc643e66b7e23ff59ec227e687a220dfa917be2cbf17ed2dfb7c4b87a"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "6184fab619e2400c54f8fadbb81033eb7dea9a4934a2fc870c609514e475a7ac"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
 metafile = true
 
 [[files]]
@@ -51,6 +71,11 @@ hash = "f8e9596e1c6345dab08b7bcd01a84409fe8a5dff84e01516be89081a3ad982a1"
 metafile = true
 
 [[files]]
+file = "mods/plushie.pw.toml"
+hash = "6d41f6b5d16d035bc23fe3c1b1cff71379f28a54a652c1f4aa1011253bc467bd"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "412193be248fc8a1898798abc46733361bbd6a7d79865531ee1ce7d3904d1b29"
 metafile = true
@@ -58,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/unilib.pw.toml"
 hash = "9402e803a77c480fc1ea53dba5c8790af396eaa9a494376e76847bd49c050a07"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "71dd5683adc40caa2fd16fe5843d7e11dc139769c7666b24e7dd1756c768c735"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "514f62b745ad7c02cf02fe951e3bcc550e6cc29dba7376e746eb7a578ec7555f"
 metafile = true
 
 [[files]]
