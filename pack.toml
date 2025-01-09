@@ -1,4 +1,4 @@
-name = "bloodpack"
+name = "blood-mc"
 author = "bloodwolfe"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "daff7979bf61903ae6cbf83cbab0145ceebc9a4c3fa7491df5cd9fef9191fedf"
+hash = "e43d664e5b7d2a16d4b0ca9783eca118a188de042589800827b63daa69532a91"
 
 [versions]
 fabric = "0.16.9"
-minecraft = "1.21.4"
+minecraft = "1.20.4"
 
 [options]
-acceptable-game-versions = ["1.21", "1.22", "1.23"]
+acceptable-game-versions = ["1.19.4", "1.20.1", "1.20.2", "1.20.3", "1.20.4"]

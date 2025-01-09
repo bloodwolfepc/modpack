@@ -1,0 +1,13 @@
+name = "We Don't Bite"
+filename = "wdb_1.19.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8HTKvrFj/versions/l3nLr1by/wdb_1.19.4.zip"
+hash-format = "sha1"
+hash = "0b0d88ebf5b4e0c767f848777ec4fbfb900955ab"
+
+[update]
+[update.modrinth]
+mod-id = "8HTKvrFj"
+version = "l3nLr1by"

@@ -1,0 +1,13 @@
+name = "Music Maker Mod"
+filename = "xercamusic-fabric-1.20.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qQpWCN75/versions/2gQ4nWoy/xercamusic-fabric-1.20.4-1.0.0.jar"
+hash-format = "sha1"
+hash = "b8ac3f2878ade045a06f2fbad678cbe9a84a1208"
+
+[update]
+[update.modrinth]
+mod-id = "qQpWCN75"
+version = "2gQ4nWoy"

@@ -1,0 +1,13 @@
+name = "La Baguette"
+filename = "LaBaguette.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EzvBsb7l/versions/AfL0XU5D/LaBaguette.zip"
+hash-format = "sha1"
+hash = "3cac99012e3e49606cffc0fbac529dad55a73c27"
+
+[update]
+[update.modrinth]
+mod-id = "EzvBsb7l"
+version = "AfL0XU5D"
