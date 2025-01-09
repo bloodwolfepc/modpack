@@ -92,9 +92,8 @@ hash = "72e4c374b0f8085b2b96e84f8f43e6953d82b0342445c69e224ac2ef71ca890e"
 metafile = true
 
 [[files]]
-file = "mods/joy-of-painting.pw.toml"
+file = "mods/joy-of-painting"
 hash = "c691d553593e369b746a1caa22b30079782621c8639b6a5d8ad1fbb83b9a0166"
-metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
