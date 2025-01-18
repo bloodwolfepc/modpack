@@ -1,0 +1,13 @@
+name = "Typewriter Day Counter"
+filename = "vr_typewriter_daycounter_v1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/j6YEKDZd/versions/tmCdZZ6W/vr_typewriter_daycounter_v1.jar"
+hash-format = "sha1"
+hash = "f75846e10110251fdbc7ab18de9072848ff7a697"
+
+[update]
+[update.modrinth]
+mod-id = "j6YEKDZd"
+version = "tmCdZZ6W"

@@ -1,0 +1,14 @@
+name = "AWP & Desert Eagle Overlay"
+filename = "!     §fgun bow overlay v2 §7(1.20).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "081aff45b32a4d692110f4d138592d2a4d5144f2"
+url = "https://edge.forgecdn.net/files/5511/810/!     §fgun bow overlay v2 §7(1.20).zip"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5511810
+project-id = 1059369

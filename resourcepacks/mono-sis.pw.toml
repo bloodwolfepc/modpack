@@ -1,0 +1,14 @@
+name = "Mono.sis"
+filename = "Mono.sis.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48683d3c36ca6095da6708c9816d5cce8556550f"
+url = "https://edge.forgecdn.net/files/3242/548/Mono.sis.zip"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3242548
+project-id = 457907

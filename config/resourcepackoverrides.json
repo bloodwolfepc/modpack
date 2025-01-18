@@ -1,0 +1,26 @@
+{
+  "schema_version": "2",
+  "failed_reloads_per_session" : 5,
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+    "file/!     \u00A7fgun bow overlay v2 \u00A77(1.20).zip",
+    "file/Redstone Tweaks.zip",
+    "file/Roblox Eating and Drinking Sounds Taco.zip",
+    "file/Roblox Skybox 1.13+.zip",
+    "file/fumofumo.zip",
+    "file/wdb_1.19.4.zip",
+    "file/LaBaguette.zip",
+    "file/Mono.sis.zip",
+    "file/nge.zip"
+
+  ],
+  "pack_overrides": {
+    "file/Mono.sis.zip": {
+      "title": "Monoko",
+      "description": "Adds Monoko to minecraft.",
+      "default_position": "TOP"
+    }
+  }
+}

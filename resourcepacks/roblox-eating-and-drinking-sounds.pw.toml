@@ -1,0 +1,13 @@
+name = "Roblox Eating and Drinking Sounds"
+filename = "Roblox Eating and Drinking Sounds Taco.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PeInpXCG/versions/1K3AQSYH/Roblox%20Eating%20and%20Drinking%20Sounds%20Taco.zip"
+hash-format = "sha1"
+hash = "414ab8bf4a1895e5f2b6ced784f0b64288643661"
+
+[update]
+[update.modrinth]
+mod-id = "PeInpXCG"
+version = "1K3AQSYH"

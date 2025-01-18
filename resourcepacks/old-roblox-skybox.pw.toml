@@ -1,0 +1,14 @@
+name = "Old Roblox Skybox"
+filename = "Roblox Skybox 1.13+.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2f04155f3e97abd1bd6c1a8f5053e607f31c0461"
+url = "https://edge.forgecdn.net/files/4171/733/Roblox Skybox 1.13+.zip"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4171733
+project-id = 735594

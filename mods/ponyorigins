@@ -1,0 +1,13 @@
+name = "Pony Origins"
+filename = "pony-origins-1.4.0-beta1-dp15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TwZGSxgV/versions/EXSaAHbL/pony-origins-1.4.0-beta1-dp15.jar"
+hash-format = "sha1"
+hash = "b473fbc8264bee4142c3741ac6570c69d63033f3"
+
+[update]
+[update.modrinth]
+mod-id = "TwZGSxgV"
+version = "EXSaAHbL"

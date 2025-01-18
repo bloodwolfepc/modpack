@@ -1,0 +1,13 @@
+name = "Origins: Vampire"
+filename = "origins-vampire-v2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wXwvlA97/versions/9MQUKSrq/origins-vampire-v2.2.0.jar"
+hash-format = "sha1"
+hash = "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0"
+
+[update]
+[update.modrinth]
+mod-id = "wXwvlA97"
+version = "9MQUKSrq"

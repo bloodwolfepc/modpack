@@ -1,0 +1,3 @@
+pack_directory = './pack'
+zip_spec_conformance_level = 'disregard'
+allow_mods = ['OptiFine']

@@ -1,0 +1,13 @@
+name = "Skeletal Remains"
+filename = "skeletalremains-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uveZLBGh/versions/81pCPowy/skeletalremains-1.4.3.jar"
+hash-format = "sha1"
+hash = "e122f1dbaaaf08b0cd4f666abce4ef711e3d286a"
+
+[update]
+[update.modrinth]
+mod-id = "uveZLBGh"
+version = "81pCPowy"

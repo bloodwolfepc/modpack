@@ -1,0 +1,13 @@
+name = "Alcohol Only"
+filename = "shield-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VEs3AHJu/versions/C8Hdq16L/shield-1.1.4.jar"
+hash-format = "sha1"
+hash = "01b5286d235aa5fc969d016f33e044a52a8ca739"
+
+[update]
+[update.modrinth]
+mod-id = "VEs3AHJu"
+version = "C8Hdq16L"

@@ -3,11 +3,11 @@ filename = "Redstone Tweaks.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/VQ3xRU3R/versions/w2qJ69wk/Redstone%20Tweaks.zip"
+url = "https://cdn.modrinth.com/data/VQ3xRU3R/versions/HFKw3SKo/Redstone%20Tweaks.zip"
 hash-format = "sha1"
-hash = "f5ca2fce8b74fa04834ae8144e3472fad8d08827"
+hash = "9f5426f15e7ed9c0f685505f6f1eaae9d5732fde"
 
 [update]
 [update.modrinth]
 mod-id = "VQ3xRU3R"
-version = "w2qJ69wk"
+version = "HFKw3SKo"

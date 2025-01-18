@@ -1,0 +1,13 @@
+name = "Perfect Birbs"
+filename = "perfectbirbs-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7DldwCbW/versions/mG3gH7Pk/perfectbirbs-fabric-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "9fc294267a40c03d933a2f0264986bf3ba39a5d2"
+
+[update]
+[update.modrinth]
+mod-id = "7DldwCbW"
+version = "mG3gH7Pk"

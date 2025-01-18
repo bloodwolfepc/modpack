@@ -1,0 +1,11 @@
+/*.nix
+/*.zip
+/*.mrpack
+/*.lock
+README.md
+/CHANGELOG.md
+/LICENSE
+/fixup.sh
+/copy-from-instance.sh
+/packsquash.toml
+.gitkeep

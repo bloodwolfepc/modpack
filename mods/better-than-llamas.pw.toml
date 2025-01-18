@@ -1,0 +1,13 @@
+name = "Better Than Llamas"
+filename = "BetterThanLlamas-1.20.1-Fabric-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tDYBzXM0/versions/NNWeprlK/BetterThanLlamas-1.20.1-Fabric-1.3.0.jar"
+hash-format = "sha1"
+hash = "160717b8170b0de4e9f4fc41403fd9d1e7c1682d"
+
+[update]
+[update.modrinth]
+mod-id = "tDYBzXM0"
+version = "NNWeprlK"
