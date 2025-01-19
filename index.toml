@@ -366,14 +366,12 @@ hash = "e1787cbe9f1e316cfa806dcd82f5f85fcf102ad338a487de2d9b2dac15d22fd8"
 metafile = true
 
 [[files]]
-file = "mods/origins-vampire.pw.toml"
+file = "mods/origins-vampire"
 hash = "074580e076ba31a5ef1465da4395dc9e3a6d34fdfbd80f109374c2aafceb4cf3"
-metafile = true
 
 [[files]]
-file = "mods/origins.pw.toml"
+file = "mods/origins.pw"
 hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
-metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
@@ -431,9 +429,8 @@ hash = "bc20aa52dbede81274b685b496e1847dd90e41857d463b5543f9202422343693"
 metafile = true
 
 [[files]]
-file = "mods/rain-world-origins.pw.toml"
+file = "mods/rain-world-origins"
 hash = "3b358d92752cf4837be78c82af0faf671767cf3c17a08e09cf05edbeadfe5a44"
-metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
