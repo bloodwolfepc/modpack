@@ -22,7 +22,7 @@ hash = "7138d54755f9d16a83e566eed8c10792ed83286a8c93d85bea23442db0d42b9c"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "46a5ac32b0cea097ca1bdcb7dad6ae6010c3e2aabe60aa7dd29daeb50c1ea92b"
+hash = "90203234bf3a61298f5619edf3aa7e57d0935a8e62ad2bc0172cf0f2d5f51169"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
@@ -592,7 +592,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "52685e7e5b95a63164cbc4c99d9da7370ff1aaee3bd0d8813360587af2827c41"
+hash = "c4f02ee1c140968eed64b15f4fa2280ba7b35fe38519754dad2114fea0f79955"
 
 [[files]]
 file = "resourcepacks/awp-desert-eagle-overlay.pw.toml"
