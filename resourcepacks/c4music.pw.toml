@@ -1,0 +1,13 @@
+name = "C4Music - C418 Music Pack"
+filename = "EXTRACT_ME.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/QSKCFxWX/versions/gW7HSEgE/EXTRACT_ME.zip"
+hash-format = "sha1"
+hash = "295576e7073a8ce204ac194345eae8c9bdc57d8f"
+
+[update]
+[update.modrinth]
+mod-id = "QSKCFxWX"
+version = "gW7HSEgE"

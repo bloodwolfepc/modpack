@@ -11,11 +11,10 @@ enable_system_global_packs = false
 #For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
 #With the current config you can place a Datapack into '.minecraft/global_packs/required_data' to force enable a datapack.
 [resourcepacks]
-required = [
-    #"other_folder/random_pack.zip" # You can also point at specific files!
-    "resourcepacks/nge.zip"
-    "global_packs/required_resources/",
-  #"resourcepacks/"
+required = [  
+  #"resourcepacks/nge.zip",
+  #"resourcepacks/yume-nikki-music.zip",
+    "global_packs/required_resources/"
 ]
 
 [datapacks]

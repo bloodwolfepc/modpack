@@ -54,11 +54,171 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/global_packs.toml"
-hash = "6a7038fa25a1f182bfad912ae9bc677f6f5dd901d5cf95de805bc45239d5a4eb"
+hash = "879fd0c009a578aad76c0564db42773d8ccfd021392d81f9ad6d25446d122974"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "e9bb442dc50ff4dc075dc515f431c89fc2daf5b37571ff2961f3869ad6ab143e"
+hash = "effc393442be866e80e42ea9bf3af4c73c7c86b37e738440de8c5b6460df89de"
+
+[[files]]
+file = "global_packs/required_resources/C4Music_v3.2.zip"
+hash = "89678e90135df18533dbfc152bf6609809a31b0344d6f0e6cbc62930e20c214b"
+
+[[files]]
+file = "global_packs/required_resources/nge.zip"
+hash = "9176dc3bdc1ff37951a8481e32ace6ccfa3aec78b435476785393f89aef3b179"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk1.ogg"
+hash = "161d8ff2c4d2ba69a4570eb86aa56e1d54dbbb4acf73dd335854d961e17820e0"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk2.ogg"
+hash = "a487ed93b7772042bd57f703e909ffbec7551c2bc3401b92467f2fa2a807a481"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk3.ogg"
+hash = "b047c7713391f4173d10f4dba81719cddb5e914a2a32e979afba0628df5031ec"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk4.ogg"
+hash = "c2a3103c7a744b2c0e0bd39649da6344cd32843da1507731884284de551fb5a8"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk5.ogg"
+hash = "12fa6a39f112052dd5fca88ce8116362e0a88630d41fc93ffcd8207ae7d94fea"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk6.ogg"
+hash = "7f34f0bdd212e7230f6c3351aa81642a36904074a628dc37fe583d5119c7cd57"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/boss.ogg"
+hash = "79a81aa4b3a4281731261087fe02c6f76d7d711fdb16188d60259acd41356b08"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/credits.ogg"
+hash = "f554dcdb16d5f24635d7b2f3de207d82b994d691b787410f585f96b25be8335c"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/end.ogg"
+hash = "b3a468f8cf852861c5ac22cf587b0d189510995616db18e5188cb54fc2133405"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/crimson_forest/ynk1.ogg"
+hash = "2a156cb710897edbff0292576ec0fee70aa0efbd85864dceb869e35258c7b7de"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/nether_wastes/ynk2.ogg"
+hash = "2a77ece4f79387f24f07129f7c15e980da0775521d665e3dc3885416ce3f89db"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/soulsand_valley/ynk3.ogg"
+hash = "2d66478896fdb143e10f33a7db9d22d0bc15baa906b7d6409eff23515ffe1210"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk1.ogg"
+hash = "f04b4facf2487dc738fe8d167fc69b0937635790ca6389a064ca759a6cb417bb"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk2.ogg"
+hash = "cf3f12fa381d0563add1bf9cac48e84aa89f3aff82d17516c44bac688a6aae51"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk3.ogg"
+hash = "6021ced26b8eb055d9afeef3597b67e026157e83ba947853d98c30fe53677fee"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk4.ogg"
+hash = "01af8e01085a26b8233c8b86256c7490e532b1cab123f278d69fa642b3d97161"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk1.ogg"
+hash = "f73addf2dca1d190068647460f35cbed1e163f3fd6ac486a8274a2c235539f58"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk2.ogg"
+hash = "b5ca142f1a855c16ef80d95a5870d850122d89dc62d54514a58803b775c03188"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk3.ogg"
+hash = "b33ae6111796e903c556ecd30117ed25ced3214a293864ad82cb047f7ad2a6b1"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk1.ogg"
+hash = "5d8c3961e35fcece77f2fda9306098599b1be0e6fd5ba5de2dbd3cae1f0eb799"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk10.ogg"
+hash = "2a156cb710897edbff0292576ec0fee70aa0efbd85864dceb869e35258c7b7de"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk11.ogg"
+hash = "8dd22dc4d9dfec05a9083c8193425a92dbea8726acdd08957ae53f5a46625c87"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk12.ogg"
+hash = "57c048eddc8072e0fee2580f7db03e749fb594bf50b2ac9249bc9d0095197279"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk13.ogg"
+hash = "253ef52e050f225eff07571975e9844c25cf9dfc691b9ff631e1493988b4c85d"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk2.ogg"
+hash = "a1f87caba417c67357a25b20c34f29d21aec108b9a8e259a1b00af043562bb47"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk3.ogg"
+hash = "80655a95b449e93c9d299d7eb60594cfa6445d76c1c535916b312655730dd6ac"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk4.ogg"
+hash = "25d06ac8dff24076d1020017f4dcb8dd4598a75caa822cb7494a87b30c74377f"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk5.ogg"
+hash = "3dc2dcf3566b4e30800a7d92c94f39be28fcfe7f4604d23ae4220325a48e7f72"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk6.ogg"
+hash = "da391ad2075d7c5e421968b55411e6dff617433d9b09c636b87d03314bcb928c"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk7.ogg"
+hash = "da6f5de31aad1a09120f07b713d19e9f95d5f80b86441dc9102430d6c0956f11"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk8.ogg"
+hash = "29d412d5a13760d2306a75874a6edba14cb130c33c64efa4191fee35a89b2c26"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk9.ogg"
+hash = "61cb175442e83076f49cf7113ff3c3dbd0ed89a671c3236854ad2553c109c587"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu1.ogg"
+hash = "ea1a69c6e5cca39b2d347c56d5a85a6875ed320b2e0960f976b9e81369bb834f"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu2.ogg"
+hash = "27f7fb012708621f9d91cb22a747d3fca2913245067837c4db0fbf3c8d9d36ae"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu3.ogg"
+hash = "ad0e7d1420efdcb68a741945c370e06acd63444a0b5dec9136f476ef7115ccf1"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu4.ogg"
+hash = "2d1980fbee2bbe7b2d85e69c03434971214a5953827aa03111e816ccdd9f3deb"
+
+[[files]]
+file = "global_packs/required_resources/ynk/pack.mcmeta"
+hash = "6b9234963ca1b03bc4a9141ef6896ca0f10d87382440cd0c4746702183b71133"
+
+[[files]]
+file = "global_packs/required_resources/ynk/pack.png"
+hash = "e75f974f7fc902dbdc43fc001daacc38c0282108ed11c95ea98fda55245c70da"
 
 [[files]]
 file = "mods/alcohol.pw.toml"
@@ -592,11 +752,21 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c4f02ee1c140968eed64b15f4fa2280ba7b35fe38519754dad2114fea0f79955"
+hash = "0fa351b3b5952d549acce36f31029dfb0fdef457f80bf21a8412a12911e1cfd0"
+
+[[files]]
+file = "resourcepacks/acclimate.pw.toml"
+hash = "160b0a69e114dbd0f4c88e2727a9178a979fde1131454e9fa9927e989514326c"
+metafile = true
 
 [[files]]
 file = "resourcepacks/awp-desert-eagle-overlay.pw.toml"
 hash = "12d745b0727fab14dd211cf3da549e9bb11a6a9ad81e1b970d42a591d5d6f5b2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/c4music.pw.toml"
+hash = "c2b6aa40553835b3ae56a434a27909cd22d2ea7959f98bdd94ba24a90fd41b54"
 metafile = true
 
 [[files]]
@@ -608,10 +778,6 @@ metafile = true
 file = "resourcepacks/mono-sis.pw.toml"
 hash = "198d3300b4377cd0a02cb945176261c8e708f644829a0cdefc40d1df192f7ba6"
 metafile = true
-
-[[files]]
-file = "resourcepacks/nge.zip"
-hash = "9176dc3bdc1ff37951a8481e32ace6ccfa3aec78b435476785393f89aef3b179"
 
 [[files]]
 file = "resourcepacks/old-roblox-skybox.pw.toml"

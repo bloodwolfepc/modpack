@@ -14,7 +14,6 @@
     "file/LaBaguette.zip",
     "file/Mono.sis.zip",
     "file/nge.zip"
-
   ],
   "pack_overrides": {
     "file/Mono.sis.zip": {
