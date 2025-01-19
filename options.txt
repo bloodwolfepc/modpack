@@ -75,7 +75,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
@@ -119,9 +119,6 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.custom-crosshair-mod.edit_crosshair:key.keyboard.grave.accent
-key_key.worldeditcui.toggle:key.keyboard.period
-key_key.worldeditcui.clear:key.keyboard.unknown
-key_key.worldeditcui.chunk:key.keyboard.unknown
 key_key.bewitchment.transformation_ability:key.keyboard.x
 key_key.carry.desc:key.keyboard.v
 key_key.cpm.gestureMenu:key.keyboard.g
@@ -173,7 +170,7 @@ key_iris.keybind.reload:key.keyboard.equal
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.minus
 key_iris.keybind.wireframe:key.keyboard.unknown
-key_key.craftpresence.config_keycode.name:key.keyboard.right.bracket
+key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 soundCategory_master:0.6059602649006622
 soundCategory_music:0.7007042253521126
 soundCategory_record:0.7024647887323944
