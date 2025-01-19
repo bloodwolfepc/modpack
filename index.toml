@@ -593,9 +593,8 @@ hash = "00b36e950572fa2df7a8c4d6c06405fb0ee737bc87076cb7f853e23e51757f00"
 metafile = true
 
 [[files]]
-file = "mods/unoriginal.pw.toml"
+file = "mods/unoriginal"
 hash = "e74ce3ba0f0e5d8f9df5fe06a650278a2648d7c53299791156a066c0feb8dd7d"
-metafile = true
 
 [[files]]
 file = "mods/vinurl.pw.toml"
