@@ -458,9 +458,8 @@ hash = "939177d27ac145233cd4abacf45a7d1669f6a35558bb0dd08b4c2573a0cd1948"
 metafile = true
 
 [[files]]
-file = "mods/runes.pw.toml"
+file = "mods/runes"
 hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
-metafile = true
 
 [[files]]
 file = "mods/shield-api.pw.toml"
