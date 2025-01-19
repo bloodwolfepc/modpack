@@ -71,10 +71,6 @@ hash = "a73ce171bac7be07db35d7d2f381fdab5dfcbd344a727bcff7bc1cb04d6b143c"
 metafile = true
 
 [[files]]
-file = "mods/archers"
-hash = "616f08ac2b9ec995dfbb3c7799abf6396c5a8b32a51e00a781bcc8cc60378df1"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -170,18 +166,6 @@ hash = "6a9ddeb0d1563a8b8c6c848f5d3ca30d8c065b1faf5cf17aa870338aa7377a5f"
 metafile = true
 
 [[files]]
-file = "mods/create-big-cannons"
-hash = "338196f41190bb2c0b34d4a8aa10e0f41bdf339bd436ce3f738762d3e56883b8"
-
-[[files]]
-file = "mods/create-fabric"
-hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
-
-[[files]]
-file = "mods/creativecore"
-hash = "af346de7aed0fb58198dfc8d5f6674a3b0100a3928d7901f1e75248c8f78d3b9"
-
-[[files]]
 file = "mods/custom-crosshair-mod.pw.toml"
 hash = "0814b2fbec26c8e162de5ef37f443afe70b14bd57d474f852868cc8241bbdde8"
 metafile = true
@@ -190,10 +174,6 @@ metafile = true
 file = "mods/custom-player-models.pw.toml"
 hash = "25603aed0fdb68a00c9d2ed31d6d00fdffcb8a9936c492a3dd3d4ade192b95e2"
 metafile = true
-
-[[files]]
-file = "mods/daniinatorul"
-hash = "4928dbc6ac4c829334c89f220906985140deeddde411306d5c12aade778508c2"
 
 [[files]]
 file = "mods/deathlog.pw.toml"
@@ -276,10 +256,6 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
-file = "mods/findme"
-hash = "7c7ece4ff536156f6b87b6fac92e639660402b026f19b0323ff55b6dc6c977e0"
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
 metafile = true
@@ -298,10 +274,6 @@ metafile = true
 file = "mods/handcrafted.pw.toml"
 hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
-
-[[files]]
-file = "mods/icarus"
-hash = "ddada5c0dba85969477a6c005d8fe0809f1f366fd71f197c44fa300377ad9a4c"
 
 [[files]]
 file = "mods/ichunutil.pw.toml"
@@ -327,10 +299,6 @@ metafile = true
 file = "mods/iris.pw.toml"
 hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
-
-[[files]]
-file = "mods/jei"
-hash = "93eae4c1e9899ecd8472208d67138b7043340eccd83433dffdc0d44604f5d5c1"
 
 [[files]]
 file = "mods/jewelry.pw.toml"
@@ -413,10 +381,6 @@ hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
-file = "mods/paladins-and-priests"
-hash = "f811a02944223f535532a839386962dd8708e2aed1037ce6081968e67a2932d3"
-
-[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
@@ -455,10 +419,6 @@ metafile = true
 file = "mods/playeranimator.pw.toml"
 hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
-
-[[files]]
-file = "mods/ponyorigins"
-hash = "a9c05a74a913696d21ccbc57b38a8b279dc15e154a2d03f78aa9b4119f84e9c4"
 
 [[files]]
 file = "mods/pride-fishing-line.pw.toml"
@@ -506,10 +466,6 @@ hash = "939177d27ac145233cd4abacf45a7d1669f6a35558bb0dd08b4c2573a0cd1948"
 metafile = true
 
 [[files]]
-file = "mods/rogues-and-warriors"
-hash = "382d9d82b859a302f9b593c0f2f5aa2ed14a8ae032d9c772b491a25e7b4a2de1"
-
-[[files]]
 file = "mods/runes.pw.toml"
 hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
@@ -540,10 +496,6 @@ hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
-file = "mods/spell-engine"
-hash = "8d9ebb44bfa4fa850877c974b452910ed488fcd7827efe199bbb3b4e3d8120a7"
-
-[[files]]
 file = "mods/spell-power.pw.toml"
 hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
 metafile = true
@@ -569,10 +521,6 @@ hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
-file = "mods/touhou-origins"
-hash = "c2a8f71cad20b66bca5c51de34bc0f49179e627adab6ce8683d87387f6ba8ccb"
-
-[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
@@ -593,8 +541,9 @@ hash = "00b36e950572fa2df7a8c4d6c06405fb0ee737bc87076cb7f853e23e51757f00"
 metafile = true
 
 [[files]]
-file = "mods/unoriginal"
+file = "mods/unoriginal.pw.toml"
 hash = "e74ce3ba0f0e5d8f9df5fe06a650278a2648d7c53299791156a066c0feb8dd7d"
+metafile = true
 
 [[files]]
 file = "mods/vinurl.pw.toml"
@@ -602,38 +551,14 @@ hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
 metafile = true
 
 [[files]]
-file = "mods/waterframes"
-hash = "6ef38b32f95cfb2661102479abb6c2e98ad8f35219a5ebdf1674c1191b1998eb"
-
-[[files]]
-file = "mods/watermedia"
-hash = "82b1deaa636ddb88b007f33d1cf63ffb3c32b0ec9e6e4a97007bc6668b824356"
-
-[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
 metafile = true
 
 [[files]]
-file = "mods/wizards"
-hash = "ecfda063bff490288fcaa79731926129ca8382e1ca9b07ec6b301ddd910c7b23"
-
-[[files]]
 file = "mods/woodwalkers.pw.toml"
 hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
 metafile = true
-
-[[files]]
-file = "mods/worldedit"
-hash = "5703543a503d90346eedf4ac22eb3bc1370007d0b5f86b11a18b322e04a4f44a"
-
-[[files]]
-file = "mods/worldeditcui-fabric"
-hash = "e196a60a85d92eb1db4edc4ad5f4fc6925de601efa03eb92620f60aab1a98ed1"
-
-[[files]]
-file = "mods/wthit"
-hash = "5cf47017a744e8f5726ef7131343be22cb9417c75810cc1d29bf9ca6eb8c8550"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
