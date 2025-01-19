@@ -66,11 +66,6 @@ hash = "22f7b5e7b57f07193520fc73379bdbcd1a5b9bc8343c9fb526b490e11d084a1a"
 metafile = true
 
 [[files]]
-file = "mods/apugli.pw.toml"
-hash = "a73ce171bac7be07db35d7d2f381fdab5dfcbd344a727bcff7bc1cb04d6b143c"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
