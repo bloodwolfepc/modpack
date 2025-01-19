@@ -161,6 +161,11 @@ hash = "6a9ddeb0d1563a8b8c6c848f5d3ca30d8c065b1faf5cf17aa870338aa7377a5f"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
+metafile = true
+
+[[files]]
 file = "mods/custom-crosshair-mod.pw.toml"
 hash = "0814b2fbec26c8e162de5ef37f443afe70b14bd57d474f852868cc8241bbdde8"
 metafile = true
