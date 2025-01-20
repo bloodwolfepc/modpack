@@ -1,0 +1,13 @@
+name = "Programmer Art Continuation Project"
+filename = "PACP_2.0.4_Standard.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gx2HeuWD/versions/yUcEGM4r/PACP_2.0.4_Standard.zip"
+hash-format = "sha1"
+hash = "2138f86c33a00e2033d19061dcfa67dd63854b16"
+
+[update]
+[update.modrinth]
+mod-id = "gx2HeuWD"
+version = "yUcEGM4r"

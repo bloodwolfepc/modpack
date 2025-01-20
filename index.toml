@@ -58,7 +58,7 @@ hash = "879fd0c009a578aad76c0564db42773d8ccfd021392d81f9ad6d25446d122974"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "effc393442be866e80e42ea9bf3af4c73c7c86b37e738440de8c5b6460df89de"
+hash = "837c2b617290581077deb82243bde5217359bc2a69b422b5881545d7ffa2d8f6"
 
 [[files]]
 file = "global_packs/required_resources/C4Music_v3.2.zip"
@@ -782,6 +782,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/old-roblox-skybox.pw.toml"
 hash = "80f84727accb0ecf58c0e85f29f7f445d8f08bdc898cac181046cb3c6368ffb5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pacp.pw.toml"
+hash = "42b92dc12c0be79cd85c3f24fcf3de14b2b5cee2bee14f127b9d2821ded52979"
 metafile = true
 
 [[files]]
