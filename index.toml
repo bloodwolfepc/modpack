@@ -58,7 +58,7 @@ hash = "879fd0c009a578aad76c0564db42773d8ccfd021392d81f9ad6d25446d122974"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "837c2b617290581077deb82243bde5217359bc2a69b422b5881545d7ffa2d8f6"
+hash = "9f10b7ec86e6d43bd12f03067a0f894c885c57fa5e163cc0a91390604ec96289"
 
 [[files]]
 file = "global_packs/required_resources/C4Music_v3.2.zip"

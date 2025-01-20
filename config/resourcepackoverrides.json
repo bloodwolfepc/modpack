@@ -2,8 +2,7 @@
   "schema_version": "2",
   "failed_reloads_per_session" : 5,
   "default_overrides": {
-    "force_compatible": true,
-    "required": true
+    "force_compatible": true
   },
   "default_packs": [
     "file/!     \u00A7fgun bow overlay v2 \u00A77(1.20).zip",
@@ -17,20 +16,6 @@
     "file/nge.zip"
   ],
   "pack_overrides": {
-    "1": [
-      "file/PACP_2.0.4_Standard.zip"
-    ],
-    "$$1": {
-      "required": true,
-      "default_position": "BOTTOM"
-    },
-    "2": [
-      "programmer_art",
-      "high_contrast"
-    ],
-    "$$2": {
-      "required": false
-    },
     "file/Mono.sis.zip": {
       "title": "Monoko",
       "description": "Adds Monoko to minecraft.",
