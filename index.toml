@@ -266,9 +266,8 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
+file = "mods/c2me-fabric"
 hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
-metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
@@ -734,9 +733,8 @@ hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
 metafile = true
 
 [[files]]
-file = "mods/worldedit.pw.toml"
+file = "mods/worldedit"
 hash = "d851ca608e938765f1f0377738acfb8eec85526b04564028c5ca78aa50d13a27"
-metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
