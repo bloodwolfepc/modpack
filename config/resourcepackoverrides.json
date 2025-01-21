@@ -13,13 +13,17 @@
     "file/wdb_1.19.4.zip",
     "file/LaBaguette.zip",
     "file/Mono.sis.zip",
+    "file/Music_Revised.zip",
     "file/nge.zip"
   ],
   "pack_overrides": {
+    "file/PACP_2.0.4_Standard.zip": {
+      "default_position": "bottom"
+    },
     "file/Mono.sis.zip": {
       "title": "Monoko",
       "description": "Adds Monoko to minecraft.",
-      "default_position": "TOP",
+      "default_position": "top",
       "required": true
     }
   }
