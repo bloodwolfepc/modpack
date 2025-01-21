@@ -481,9 +481,8 @@ hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/krypton"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
-metafile = true
 
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
@@ -721,9 +720,8 @@ hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
+file = "mods/vmp-fabric"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
-metafile = true
 
 [[files]]
 file = "mods/windchimes.pw.toml"
