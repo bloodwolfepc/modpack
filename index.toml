@@ -61,6 +61,11 @@ file = "config/resourcepackoverrides.json"
 hash = "fe49480fe5007bf46630eda5e63bbf88eed0aacc65358e26e3eeeafe73cc0f59"
 
 [[files]]
+file = "discrepancies/worldedit.pw.toml"
+hash = "4b0c906665c9e98951b4af9e50bfa3d4ddf87299bc62c30b813907345d7a77b6"
+metafile = true
+
+[[files]]
 file = "global_packs/required_resources/C4Music_v3.2.zip"
 hash = "89678e90135df18533dbfc152bf6609809a31b0344d6f0e6cbc62930e20c214b"
 
@@ -728,11 +733,6 @@ metafile = true
 [[files]]
 file = "mods/woodwalkers.pw.toml"
 hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "4b0c906665c9e98951b4af9e50bfa3d4ddf87299bc62c30b813907345d7a77b6"
 metafile = true
 
 [[files]]
