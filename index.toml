@@ -301,6 +301,11 @@ hash = "7a014316a8e46d69a299fc3c6876cb20e4aa8327e61e3d87a8415820f3357925"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
 metafile = true
@@ -726,6 +731,11 @@ hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "4b0c906665c9e98951b4af9e50bfa3d4ddf87299bc62c30b813907345d7a77b6"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
 metafile = true
@@ -775,6 +785,11 @@ hash = "c2b6aa40553835b3ae56a434a27909cd22d2ea7959f98bdd94ba24a90fd41b54"
 metafile = true
 
 [[files]]
+file = "resourcepacks/half-mine.pw.toml"
+hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/la-baguette.pw.toml"
 hash = "749a00104fc5130918eb13cfb12c429f0c88edca4d8dd66859d364bde48e9955"
 metafile = true
@@ -782,6 +797,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mono-sis.pw.toml"
 hash = "198d3300b4377cd0a02cb945176261c8e708f644829a0cdefc40d1df192f7ba6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/niko-plush-rp.pw.toml"
+hash = "fbc751c37299d1e51da3f314f9c01b048a799db1150f50e0c8f1681aa92b52ce"
 metafile = true
 
 [[files]]

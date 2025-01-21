@@ -1,0 +1,13 @@
+name = "Niko Plush Resource Pack"
+filename = "Niko_Plush.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q1d3tsib/versions/RfxTuhrN/Niko_Plush.zip"
+hash-format = "sha512"
+hash = "126ea421386d2c3390ea91593f5256fdba225e5fae47a5ed884553a5030c9838667fff4b205e9bf1ebd649d81b86ba1f58cbf7971d306a457a50252037127050"
+
+[update]
+[update.modrinth]
+mod-id = "q1d3tsib"
+version = "RfxTuhrN"
