@@ -58,7 +58,7 @@ hash = "879fd0c009a578aad76c0564db42773d8ccfd021392d81f9ad6d25446d122974"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "9f10b7ec86e6d43bd12f03067a0f894c885c57fa5e163cc0a91390604ec96289"
+hash = "fe49480fe5007bf46630eda5e63bbf88eed0aacc65358e26e3eeeafe73cc0f59"
 
 [[files]]
 file = "global_packs/required_resources/C4Music_v3.2.zip"
@@ -817,11 +817,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/roblox-eating-and-drinking-sounds.pw.toml"
 hash = "2340d1e29a457b95c19b357a60d1981b288c05835b42107e71318b808543fdca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/totem-of-fumo.pw.toml"
-hash = "af5173f3e24a9f467e45a9c6cf14ea767793f289fdedd9143f8e7fdad9f89584"
 metafile = true
 
 [[files]]
