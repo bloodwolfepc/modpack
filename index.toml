@@ -266,8 +266,9 @@ hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric"
+file = "mods/c2me-fabric.pw.toml"
 hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
@@ -478,10 +479,6 @@ metafile = true
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
-
-[[files]]
-file = "mods/krypton"
-hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
@@ -719,10 +716,6 @@ hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric"
-hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
-
-[[files]]
 file = "mods/windchimes.pw.toml"
 hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
 metafile = true
@@ -731,10 +724,6 @@ metafile = true
 file = "mods/woodwalkers.pw.toml"
 hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
 metafile = true
-
-[[files]]
-file = "mods/worldedit"
-hash = "d851ca608e938765f1f0377738acfb8eec85526b04564028c5ca78aa50d13a27"
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
