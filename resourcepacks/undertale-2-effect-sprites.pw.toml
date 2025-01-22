@@ -1,0 +1,13 @@
+name = "Undertale 2 Effect Sprites"
+filename = "uteffectsv4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GZ28mJBy/versions/az552TVP/uteffectsv4.zip"
+hash-format = "sha512"
+hash = "cb7849595ebc1a634e55eafd6889779b447b6ebcb45e8b118bf62ffab711ea7725628d247f70b162a054571d46c6c98a2e3402b890421470846e288eb7f2a526"
+
+[update]
+[update.modrinth]
+mod-id = "GZ28mJBy"
+version = "az552TVP"

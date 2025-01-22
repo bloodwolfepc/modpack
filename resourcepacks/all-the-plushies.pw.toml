@@ -1,0 +1,14 @@
+name = "All The Plushies | Anime Totems"
+filename = "All The Plushies V.1.3c.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fb851c72d7b9770e4ea51308c4378459745c8254"
+url = "https://edge.forgecdn.net/files/5991/125/All The Plushies V.1.3c.zip"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5991125
+project-id = 1118631

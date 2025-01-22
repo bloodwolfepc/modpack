@@ -641,6 +641,11 @@ hash = "939177d27ac145233cd4abacf45a7d1669f6a35558bb0dd08b4c2573a0cd1948"
 metafile = true
 
 [[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "81745098ba36d5005d677b24c2dfdc11334f847a1b077e0826da3fd66e303957"
+metafile = true
+
+[[files]]
 file = "mods/runes.pw.toml"
 hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
 metafile = true
@@ -775,6 +780,11 @@ hash = "160b0a69e114dbd0f4c88e2727a9178a979fde1131454e9fa9927e989514326c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/all-the-plushies.pw.toml"
+hash = "890d254765d21a7ddd256e40d060d0b1702632bfc795d771e60535f376021122"
+metafile = true
+
+[[files]]
 file = "resourcepacks/awp-desert-eagle-overlay.pw.toml"
 hash = "12d745b0727fab14dd211cf3da549e9bb11a6a9ad81e1b970d42a591d5d6f5b2"
 metafile = true
@@ -822,6 +832,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/roblox-eating-and-drinking-sounds.pw.toml"
 hash = "2340d1e29a457b95c19b357a60d1981b288c05835b42107e71318b808543fdca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/undertale-2-effect-sprites.pw.toml"
+hash = "6351c80aa5cc798a318d8b48a191a6e9bac226c731bcf8b63c2f1838a59b9c3f"
 metafile = true
 
 [[files]]
