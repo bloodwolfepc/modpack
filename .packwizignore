@@ -8,4 +8,7 @@ README.md
 /fixup.sh
 /copy-from-instance.sh
 /packsquash.toml
+/instances
+/packages
+/result
 .gitkeep

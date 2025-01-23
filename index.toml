@@ -781,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/all-the-plushies.pw.toml"
-hash = "890d254765d21a7ddd256e40d060d0b1702632bfc795d771e60535f376021122"
+hash = "7c670a05bd1ee749605492cc8158f43e22149587bb899fb80acd3b4b3d0c3c18"
 metafile = true
 
 [[files]]
@@ -843,6 +843,10 @@ metafile = true
 file = "resourcepacks/wedontbite.pw.toml"
 hash = "0f66115b02fdc0294b100e055dc01e6cccaa57bfb5c0e6c40942f00a6e25a240"
 metafile = true
+
+[[files]]
+file = "todo.md"
+hash = "ad4432dc55749cc2348d02e93decf05e4c33b9bcd1eda2bc37d1e2fc51405226"
 
 [[files]]
 file = "vlc-fixup.sh"

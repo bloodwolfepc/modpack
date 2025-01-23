@@ -1,6 +1,8 @@
 - make staging branch on git and run staging server
 - compress asset files, host static files on nginx
 
+https://modrinth.com/mods?f=categories:management
+https://modrinth.com/mod/auth-me
 https://modrinth.com/datapack/dynamic-lights
 https://modrinth.com/mod/fabric-seasons
 https://modrinth.com/mod/spark

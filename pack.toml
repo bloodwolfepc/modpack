@@ -1,12 +1,12 @@
 name = "blood-mc"
 author = "bloodwolfe"
-version = "0.2.0"
+version = "0.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9edaa804622f9cf16ae9413acf7846c7ae55d3c367841c00fbb8b463597f9ef0"
+hash = "139881b1e8555698d80308c1da4ddc948b4b7298c11b66ca9f4eb160bb3e7d85"
 
 [versions]
 fabric = "0.16.9"
