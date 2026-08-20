@@ -1,0 +1,25 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "88467a7bdda3717c87a35e0833daf833d69603794746106ae20c56408bc2f854"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "4c67dcaac16f11a5d90dfeb2d1e6bfaabca6ff5b912c566970330c005797e2ea"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "99811c67881579897393b3927dfb3edf708713adb5702fda8e231bfcb4c28abb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wedontbite.pw.toml"
+hash = "8f159ed98bb580281b12b2f1f4a9d9bfa89a7465ff63117675a48e365c292407"
+metafile = true
+
+[[files]]
+file = "t"
+hash = "89cd28e1970b536afa52f355a6611638ed49b5c6d69627f2fd063598d618dc71"

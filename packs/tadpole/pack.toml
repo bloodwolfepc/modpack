@@ -1,0 +1,13 @@
+name = "tadpole"
+author = "bloodwolfe"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "22d2b71d1cdcf2f9f0d479e5d45d4e49e23d17a04f35f5e0fdbba9a08a9610f8"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "26.2"

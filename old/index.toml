@@ -1,0 +1,849 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fancymenu/assets/background.png"
+hash = "b34672b49e098f6849d4b9cc403fc230537a9d9aac23fd780f725013e54212d2"
+
+[[files]]
+file = "config/fancymenu/assets/github-mark.png"
+hash = "367d5cb2adc609451cf9127250edfe893837485e7c779d7dcb4e31234f59b001"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "546287673d2e087e2238c983f30c74aa0d9bc96966e5755c39b2aefc19a8a425"
+
+[[files]]
+file = "config/fancymenu/customization/join_multiplayer_screen_layout.txt"
+hash = "7138d54755f9d16a83e566eed8c10792ed83286a8c93d85bea23442db0d42b9c"
+
+[[files]]
+file = "config/fancymenu/customization/pause_screen_layout.txt"
+hash = "90203234bf3a61298f5619edf3aa7e57d0935a8e62ad2bc0172cf0f2d5f51169"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "081ce02e5db636f63bf28aaad0207d957d36981da56be2660e3706fb673b11d1"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "c61387499194e97b019e42f1a10dc583733ea535959792df1202df166edcb067"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/global_packs.toml"
+hash = "879fd0c009a578aad76c0564db42773d8ccfd021392d81f9ad6d25446d122974"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "fe49480fe5007bf46630eda5e63bbf88eed0aacc65358e26e3eeeafe73cc0f59"
+
+[[files]]
+file = "discrepancies/worldedit.pw.toml"
+hash = "4b0c906665c9e98951b4af9e50bfa3d4ddf87299bc62c30b813907345d7a77b6"
+metafile = true
+
+[[files]]
+file = "global_packs/required_resources/C4Music_v3.2.zip"
+hash = "89678e90135df18533dbfc152bf6609809a31b0344d6f0e6cbc62930e20c214b"
+
+[[files]]
+file = "global_packs/required_resources/nge.zip"
+hash = "9176dc3bdc1ff37951a8481e32ace6ccfa3aec78b435476785393f89aef3b179"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk1.ogg"
+hash = "161d8ff2c4d2ba69a4570eb86aa56e1d54dbbb4acf73dd335854d961e17820e0"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk2.ogg"
+hash = "a487ed93b7772042bd57f703e909ffbec7551c2bc3401b92467f2fa2a807a481"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk3.ogg"
+hash = "b047c7713391f4173d10f4dba81719cddb5e914a2a32e979afba0628df5031ec"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk4.ogg"
+hash = "c2a3103c7a744b2c0e0bd39649da6344cd32843da1507731884284de551fb5a8"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk5.ogg"
+hash = "12fa6a39f112052dd5fca88ce8116362e0a88630d41fc93ffcd8207ae7d94fea"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/creative/ynk6.ogg"
+hash = "7f34f0bdd212e7230f6c3351aa81642a36904074a628dc37fe583d5119c7cd57"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/boss.ogg"
+hash = "79a81aa4b3a4281731261087fe02c6f76d7d711fdb16188d60259acd41356b08"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/credits.ogg"
+hash = "f554dcdb16d5f24635d7b2f3de207d82b994d691b787410f585f96b25be8335c"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/end/end.ogg"
+hash = "b3a468f8cf852861c5ac22cf587b0d189510995616db18e5188cb54fc2133405"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/crimson_forest/ynk1.ogg"
+hash = "2a156cb710897edbff0292576ec0fee70aa0efbd85864dceb869e35258c7b7de"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/nether_wastes/ynk2.ogg"
+hash = "2a77ece4f79387f24f07129f7c15e980da0775521d665e3dc3885416ce3f89db"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/soulsand_valley/ynk3.ogg"
+hash = "2d66478896fdb143e10f33a7db9d22d0bc15baa906b7d6409eff23515ffe1210"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk1.ogg"
+hash = "f04b4facf2487dc738fe8d167fc69b0937635790ca6389a064ca759a6cb417bb"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk2.ogg"
+hash = "cf3f12fa381d0563add1bf9cac48e84aa89f3aff82d17516c44bac688a6aae51"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk3.ogg"
+hash = "6021ced26b8eb055d9afeef3597b67e026157e83ba947853d98c30fe53677fee"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/nether/ynk4.ogg"
+hash = "01af8e01085a26b8233c8b86256c7490e532b1cab123f278d69fa642b3d97161"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk1.ogg"
+hash = "f73addf2dca1d190068647460f35cbed1e163f3fd6ac486a8274a2c235539f58"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk2.ogg"
+hash = "b5ca142f1a855c16ef80d95a5870d850122d89dc62d54514a58803b775c03188"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/water/ynk3.ogg"
+hash = "b33ae6111796e903c556ecd30117ed25ced3214a293864ad82cb047f7ad2a6b1"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk1.ogg"
+hash = "5d8c3961e35fcece77f2fda9306098599b1be0e6fd5ba5de2dbd3cae1f0eb799"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk10.ogg"
+hash = "2a156cb710897edbff0292576ec0fee70aa0efbd85864dceb869e35258c7b7de"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk11.ogg"
+hash = "8dd22dc4d9dfec05a9083c8193425a92dbea8726acdd08957ae53f5a46625c87"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk12.ogg"
+hash = "57c048eddc8072e0fee2580f7db03e749fb594bf50b2ac9249bc9d0095197279"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk13.ogg"
+hash = "253ef52e050f225eff07571975e9844c25cf9dfc691b9ff631e1493988b4c85d"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk2.ogg"
+hash = "a1f87caba417c67357a25b20c34f29d21aec108b9a8e259a1b00af043562bb47"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk3.ogg"
+hash = "80655a95b449e93c9d299d7eb60594cfa6445d76c1c535916b312655730dd6ac"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk4.ogg"
+hash = "25d06ac8dff24076d1020017f4dcb8dd4598a75caa822cb7494a87b30c74377f"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk5.ogg"
+hash = "3dc2dcf3566b4e30800a7d92c94f39be28fcfe7f4604d23ae4220325a48e7f72"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk6.ogg"
+hash = "da391ad2075d7c5e421968b55411e6dff617433d9b09c636b87d03314bcb928c"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk7.ogg"
+hash = "da6f5de31aad1a09120f07b713d19e9f95d5f80b86441dc9102430d6c0956f11"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk8.ogg"
+hash = "29d412d5a13760d2306a75874a6edba14cb130c33c64efa4191fee35a89b2c26"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/game/ynk9.ogg"
+hash = "61cb175442e83076f49cf7113ff3c3dbd0ed89a671c3236854ad2553c109c587"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu1.ogg"
+hash = "ea1a69c6e5cca39b2d347c56d5a85a6875ed320b2e0960f976b9e81369bb834f"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu2.ogg"
+hash = "27f7fb012708621f9d91cb22a747d3fca2913245067837c4db0fbf3c8d9d36ae"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu3.ogg"
+hash = "ad0e7d1420efdcb68a741945c370e06acd63444a0b5dec9136f476ef7115ccf1"
+
+[[files]]
+file = "global_packs/required_resources/ynk/assets/minecraft/sounds/music/menu/menu4.ogg"
+hash = "2d1980fbee2bbe7b2d85e69c03434971214a5953827aa03111e816ccdd9f3deb"
+
+[[files]]
+file = "global_packs/required_resources/ynk/pack.mcmeta"
+hash = "6b9234963ca1b03bc4a9141ef6896ca0f10d87382440cd0c4746702183b71133"
+
+[[files]]
+file = "global_packs/required_resources/ynk/pack.png"
+hash = "e75f974f7fc902dbdc43fc001daacc38c0282108ed11c95ea98fda55245c70da"
+
+[[files]]
+file = "mods/alcohol.pw.toml"
+hash = "22f7b5e7b57f07193520fc73379bdbcd1a5b9bc8343c9fb526b490e11d084a1a"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "8fc1f594220597d48211568b52ab9f12055c6af2fb12b735f32e902703e4bffd"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
+metafile = true
+
+[[files]]
+file = "mods/better-than-bunnies.pw.toml"
+hash = "0932f69a3cc832ed7f50363e170aa69dd1943e9a3f68fbafd10fba49a2c0eb10"
+metafile = true
+
+[[files]]
+file = "mods/better-than-llamas.pw.toml"
+hash = "2b08ecb5e32cd677d8c11c32a417a8efc4c9bd4e06badbfac9f549cb902eae6a"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "5e3ee3550327d6b3545abc363325056c9fc09fb4d48a841e32da2da54c7f74c9"
+metafile = true
+
+[[files]]
+file = "mods/bewitchment.pw.toml"
+hash = "e918eb82a8b5fde9bf05f4341f89db225fa74df21a21fc1bac407ab0a8c56346"
+metafile = true
+
+[[files]]
+file = "mods/blahaj_fabric.pw.toml"
+hash = "f5973367270a84ca6b3c96172ea520f811b00d92cefb22aeb589773827c7c6bd"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "8c47daba91f742d52311a9df66bae3296246ecba7ca6f1650579e5739d152d0f"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e4295eaf6d67a0203c6410e4687b3e4340d84202e1cf751b231f283b5f801751"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "fa4caa371b3e50bb3b4dd07912a5eece09ad0af673549815efd7481e6066d7b8"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/cicada.pw.toml"
+hash = "7a014316a8e46d69a299fc3c6876cb20e4aa8327e61e3d87a8415820f3357925"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "b99d5b9487ac9f7041af14efa6c1643800b36612f5ba50b14eebdf931c522ea7"
+metafile = true
+
+[[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "cb688be9a36b4848bdc6ea31e382a3b7aa3f8cc88213d76013e826857f0de2eb"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "6a9ddeb0d1563a8b8c6c848f5d3ca30d8c065b1faf5cf17aa870338aa7377a5f"
+metafile = true
+
+[[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
+metafile = true
+
+[[files]]
+file = "mods/custom-crosshair-mod.pw.toml"
+hash = "0814b2fbec26c8e162de5ef37f443afe70b14bd57d474f852868cc8241bbdde8"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "25603aed0fdb68a00c9d2ed31d6d00fdffcb8a9936c492a3dd3d4ade192b95e2"
+metafile = true
+
+[[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
+file = "mods/decorative-gaming-consoles.pw.toml"
+hash = "6c2529bd8ebaba2d8f06c01cb56908d6591c387b7d5b1d9df65d41330e863b78"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "e0024a1ca07a6a4c44eb815049e9a69b89bac1626f5b8ad644421192a158de4a"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "7a53d620daca2a01628ea584be083bddd8c429aa6938f907b0faf6ec8dd0d3de"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "a116fba41450195d1941b326eb0f9f0137fb3bce9312ffac55308dd243a21e02"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "779fa504c1fced78924326adbc6af46eb3c5ef4aa103e5599d3bfb17b014a5ad"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "a3124745545f667a1949522edc955fd3c0b6f62c321be7cfad45e5962c5cc98e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "a74044f64e15149ea7e2efd2a2fcb2d8818e26ff0d27d2f684a287a12e2378aa"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "ed4487cc1613cc53daa5188730653a4720728971553315dcea7205b28f914f1c"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "9fc4d484263f74fb85c8b6630965a1ac96fc68b6e577dcceca6ac162bac84e36"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "2626f4f170463f0c3550645ba4699d29aa0c30f1a99e0ff3143782f974fcf2e3"
+metafile = true
+
+[[files]]
+file = "mods/farmers-knives.pw.toml"
+hash = "4e186b045f50afe1e19198bbd79b6e32219312a7565fd48f077d3c08ffe20996"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "2321bdba8aed2b99d75de3fc2116bc28c1a1d671292bde0e4af4a3be2dee0dfe"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "dd95cf09d9a642a0914a01790dee89b72963e088a4ceb88e206efea6998b03a4"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "60d1e1f1fba15b867ad72395c302317d4a4803fe0fd59aa41c214c267c7d66de"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "78f4313fe2ee827803c19bd930a3cae5685b049c6599a222023948969412c277"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "8a70f97536490d193879303f378d5fb1d843ba5bf98f59d7369ddfe761642285"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
+metafile = true
+
+[[files]]
+file = "mods/jewelry.pw.toml"
+hash = "048243b6d6d1a7e22060817a3a296a5f82b926179e68a6a2c63106f4f1f78837"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "3d022dfa126a9ab61387dce579f79c01d60e3ae2a7e12fd54fc1863924ad62d1"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/let-sleeping-dogs-lie.pw.toml"
+hash = "455608abc9e99130ece17e243f4cb857357923acfd508c0caa98cbcd120d7360"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/man-of-many-planes.pw.toml"
+hash = "cd1e54a0717ec21306365b8a87869bfad2afb694d273c83367eac9028775ae8d"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/mooblooms.pw.toml"
+hash = "a73d8590816c956d3b4a5c0ffd38775dc3c613653db791fd10f9721e7e40c878"
+metafile = true
+
+[[files]]
+file = "mods/music-maker-mod.pw.toml"
+hash = "db4e4babfeb24ddf55c947dcd12fcd2ee92e88848049d3f40363184e2a524d5b"
+metafile = true
+
+[[files]]
+file = "mods/music-sync.pw.toml"
+hash = "f562fc7d065d9c764e4cdb5df28be46b8b7fc70eb2aa7aedd405da536cf2370d"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "6cef110f567b6957a35aa4224c70e7e4ad22dd25f852b2a39d2457fdb804edff"
+metafile = true
+
+[[files]]
+file = "mods/olden-guns.pw.toml"
+hash = "e1787cbe9f1e316cfa806dcd82f5f85fcf102ad338a487de2d9b2dac15d22fd8"
+metafile = true
+
+[[files]]
+file = "mods/origins-vampire.pw.toml"
+hash = "074580e076ba31a5ef1465da4395dc9e3a6d34fdfbd80f109374c2aafceb4cf3"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
+metafile = true
+
+[[files]]
+file = "mods/perfect-birbs.pw.toml"
+hash = "1bb5016320fb468e4464a07cbc058314813cebdb24e9ac28c8d3907ecc653ccb"
+metafile = true
+
+[[files]]
+file = "mods/perfect-plushies.pw.toml"
+hash = "91b8d4447ee1cc556ef2e8718993f8146072843b872cf448cd8be3a0190c485c"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "2d93b79cb03ae39f5636b88aecc2df4c852bc650bca5da78bda96c3d7b6e36ca"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "0119c7e211e5da669b487cb6c1fef423f022eff6ae9a1c3de59fc1e190773cff"
+metafile = true
+
+[[files]]
+file = "mods/playdate.pw.toml"
+hash = "f856cfab9b7d4c5769b636304ef3863d44997060a3f046c8ee96ad76742f0450"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
+metafile = true
+
+[[files]]
+file = "mods/pride-fishing-line.pw.toml"
+hash = "13def0c952d248b86b3f2becb58597e01ff85a6d57e9e11730d8e4674c163b61"
+metafile = true
+
+[[files]]
+file = "mods/pride-furnaces.pw.toml"
+hash = "bc20aa52dbede81274b685b496e1847dd90e41857d463b5543f9202422343693"
+metafile = true
+
+[[files]]
+file = "mods/rain-world-origins.pw.toml"
+hash = "3b358d92752cf4837be78c82af0faf671767cf3c17a08e09cf05edbeadfe5a44"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "5fa66e199279801ccb4c938248f7c61c0d871f08be7b1fe676419df801916560"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4d4bcf62b73bcc53dbb6d9edfe0ed84b4ad9c267a37807c0c653486add6f89a8"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "1b45052bb9a6eba071064c7acb1c905039cc7f3c692882a01a1e61dfdee262c4"
+metafile = true
+
+[[files]]
+file = "mods/river-redux.pw.toml"
+hash = "939177d27ac145233cd4abacf45a7d1669f6a35558bb0dd08b4c2573a0cd1948"
+metafile = true
+
+[[files]]
+file = "mods/rp-renames.pw.toml"
+hash = "81745098ba36d5005d677b24c2dfdc11334f847a1b077e0826da3fd66e303957"
+metafile = true
+
+[[files]]
+file = "mods/runes.pw.toml"
+hash = "e75baae1134e34434fc8fea4c6ee4272c8fe9d8ce30c2a7845c8d791fd1c078b"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "4035c4dac9d38314c53ed5009f340a4c3fd2abe5fcf93c8ce9e4ef6e022856dc"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "cc0084cb249ed821c2489a35d9a4321cf2b98c4e7320d45fb4875a63d892b76a"
+metafile = true
+
+[[files]]
+file = "mods/skeletal-remains.pw.toml"
+hash = "a31dd682ea054f77f747becf945fb1e4ae1a0ea9475887533b534d417a448a6f"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "d35ae735260454060a9197a93915d55858cd9d579bf56c4b471009d62bc87c5d"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "706cd603362fec004317ab9882101c71a27e5634d058b516c5d87fc1ddc48636"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "233c25f5a235647ca991203968b7cf773f27819c8b5f02ed8cfe1f38cba770d3"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "27c9ee50e624c436e1bb6fe4bbeff166f5c6564e9f9a846ffef22e54a200c603"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "mods/twigs.pw.toml"
+hash = "5eff195b29b04ef06e84dc37cf1c193b70ae90b365c2c5622b76397fbdda9f45"
+metafile = true
+
+[[files]]
+file = "mods/typewriter-daycounter.pw.toml"
+hash = "cabac96a76451048e6cbb3eff325c2aed377aacb938e9d6a9cb837ddcebff22c"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "00b36e950572fa2df7a8c4d6c06405fb0ee737bc87076cb7f853e23e51757f00"
+metafile = true
+
+[[files]]
+file = "mods/unoriginal.pw.toml"
+hash = "e74ce3ba0f0e5d8f9df5fe06a650278a2648d7c53299791156a066c0feb8dd7d"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "449f36e42abd88435bbb1f59444b1b60330a031e19c901fd26f5b4319555aafd"
+metafile = true
+
+[[files]]
+file = "mods/windchimes.pw.toml"
+hash = "36f88eeb3fa5462616161820cace08473a985dbc243fbc85f1deed553e25efb6"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "28d4c0913a1220f67ebb267badd6120ba000d9d72a73fbb6da084a4ae6076a6b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "911d7f5d030bc0990e87e2a3cd113ef059c8229849f131f5957ae275634a9247"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "e7e2cc03c81bad91f62c77e988a3ac2c198a5c3e9a11ba7a7ca6d8cdc7122a60"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "0649f0106ad675a51393d8e468f276b9797dde47a6d308405e4ec29440c13da9"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "540d5f43dc1c27980097f1d11609ffa3b863e36910d835c16e51ea10ee40ae8c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "6778fcadacf18b05b5acfae80e9249995b27e8531239ddad05ad3bb7e68707c1"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "0fa351b3b5952d549acce36f31029dfb0fdef457f80bf21a8412a12911e1cfd0"
+
+[[files]]
+file = "resourcepacks/acclimate.pw.toml"
+hash = "160b0a69e114dbd0f4c88e2727a9178a979fde1131454e9fa9927e989514326c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/all-the-plushies.pw.toml"
+hash = "7c670a05bd1ee749605492cc8158f43e22149587bb899fb80acd3b4b3d0c3c18"
+metafile = true
+
+[[files]]
+file = "resourcepacks/awp-desert-eagle-overlay.pw.toml"
+hash = "12d745b0727fab14dd211cf3da549e9bb11a6a9ad81e1b970d42a591d5d6f5b2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/c4music.pw.toml"
+hash = "c2b6aa40553835b3ae56a434a27909cd22d2ea7959f98bdd94ba24a90fd41b54"
+metafile = true
+
+[[files]]
+file = "resourcepacks/half-mine.pw.toml"
+hash = "2f2839488232309091c1a2c73332480fbe3ce107fb807113e56a0028a938f9a5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/la-baguette.pw.toml"
+hash = "749a00104fc5130918eb13cfb12c429f0c88edca4d8dd66859d364bde48e9955"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mono-sis.pw.toml"
+hash = "198d3300b4377cd0a02cb945176261c8e708f644829a0cdefc40d1df192f7ba6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/niko-plush-rp.pw.toml"
+hash = "fbc751c37299d1e51da3f314f9c01b048a799db1150f50e0c8f1681aa92b52ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/old-roblox-skybox.pw.toml"
+hash = "80f84727accb0ecf58c0e85f29f7f445d8f08bdc898cac181046cb3c6368ffb5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pacp.pw.toml"
+hash = "42b92dc12c0be79cd85c3f24fcf3de14b2b5cee2bee14f127b9d2821ded52979"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstonetweaksresourcepack.pw.toml"
+hash = "7f9199156c1d272fcc2ed008a9958d45ab6bdb333df899b9d0294090cb5728eb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/roblox-eating-and-drinking-sounds.pw.toml"
+hash = "2340d1e29a457b95c19b357a60d1981b288c05835b42107e71318b808543fdca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/undertale-2-effect-sprites.pw.toml"
+hash = "6351c80aa5cc798a318d8b48a191a6e9bac226c731bcf8b63c2f1838a59b9c3f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wedontbite.pw.toml"
+hash = "0f66115b02fdc0294b100e055dc01e6cccaa57bfb5c0e6c40942f00a6e25a240"
+metafile = true
+
+[[files]]
+file = "todo.md"
+hash = "74526cf54617c4bdb47ef4b1aa6069a063a62ba8cde64148b31f27c0c4c74af1"
