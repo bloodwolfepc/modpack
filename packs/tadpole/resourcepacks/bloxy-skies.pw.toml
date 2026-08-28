@@ -1,0 +1,13 @@
+name = "Bloxy Skies"
+filename = "Bloxy_Skies_2.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXXutxyP/versions/lhkWxzSv/Bloxy_Skies_2.4.zip"
+hash-format = "sha512"
+hash = "20fb3b68e31217035631a17b9f1146677c8254e924993b8eb6093416412cca13b4c7ca13690ae43f98ec146f34336e3ac5ca09f346d4e5de74a06ba498baa734"
+
+[update]
+[update.modrinth]
+mod-id = "AXXutxyP"
+version = "lhkWxzSv"

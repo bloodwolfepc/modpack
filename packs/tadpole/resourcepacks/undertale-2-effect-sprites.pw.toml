@@ -1,0 +1,13 @@
+name = "Undertale 2 Effect Sprites (*AND SPELL ICONS!)"
+filename = "ut10.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GZ28mJBy/versions/YOYwGnH0/ut10.zip"
+hash-format = "sha512"
+hash = "c1522435ed673cebdde12345d3173873fe0b7b667411252bb7154393c7cc8696fb1c28ca5c2aff2dafff5d27cabe56fcb7abc81f0704517a4be8a26c1ebcc96a"
+
+[update]
+[update.modrinth]
+mod-id = "GZ28mJBy"
+version = "YOYwGnH0"

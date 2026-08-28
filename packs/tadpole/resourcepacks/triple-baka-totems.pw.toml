@@ -1,0 +1,13 @@
+name = "Triple Baka Totems"
+filename = "Triple Baka Totems.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/q3KvYvls/versions/fXgeAuC2/Triple%20Baka%20Totems.zip"
+hash-format = "sha512"
+hash = "ae1929325822f33a26a710209c4991801b1360347619475bb2d1721a5c9a7d4194603314106840b9cda4e32039bca38c7a394845c637f99a05ed9ae9f3a2e464"
+
+[update]
+[update.modrinth]
+mod-id = "q3KvYvls"
+version = "fXgeAuC2"
