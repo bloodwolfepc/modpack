@@ -1,0 +1,13 @@
+name = "Os' Colorful Cobblestone"
+filename = "Os' Colorful Cobblestone.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XMDBYkw7/versions/8bWLXLnz/Os%27%20Colorful%20Cobblestone.zip"
+hash-format = "sha512"
+hash = "1c656c30a9f2c00fea0f4fa004e4d812cb1f07e7c9ec2e2c720d14b60433137560b0caf170e4e6352bee12f67032f4e5fc22f55ba1cc13567e1961eb5704591d"
+
+[update]
+[update.modrinth]
+mod-id = "XMDBYkw7"
+version = "8bWLXLnz"

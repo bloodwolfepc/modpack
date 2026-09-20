@@ -1,0 +1,13 @@
+name = "Bushy pink petals, wildflowers & leaf litter"
+filename = "Bushy pink petals, wildflowers  leaf litter.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IVU3SHSl/versions/y3AuodI0/Bushy%20pink%20petals%2C%20wildflowers%20%20leaf%20litter.zip"
+hash-format = "sha512"
+hash = "aee85080703b79119b79b4ddcf79d7e5eccf8bbab47c0fbe03fba918bff1fbcd89368f72de6a86714b148eae86a3b59a780a0039b5bf228e5975435d4113f7ce"
+
+[update]
+[update.modrinth]
+mod-id = "IVU3SHSl"
+version = "y3AuodI0"

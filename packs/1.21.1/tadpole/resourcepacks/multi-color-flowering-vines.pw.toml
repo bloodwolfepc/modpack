@@ -1,0 +1,13 @@
+name = "Multi-Color Flowering Vines"
+filename = "Multi-Color Flowering Vines.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ea6JALo0/versions/ByGv0mCY/Multi-Color%20Flowering%20Vines.zip"
+hash-format = "sha512"
+hash = "af5b3cbdaae197a292908a6295cd1c577eadfb86b64a84be560ca4fd8bd8de052a26b3029c0623ed484240aeffe837616629b5a09eabbc9be3982a6de1d44887"
+
+[update]
+[update.modrinth]
+mod-id = "ea6JALo0"
+version = "ByGv0mCY"

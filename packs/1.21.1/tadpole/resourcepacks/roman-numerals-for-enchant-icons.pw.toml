@@ -1,0 +1,13 @@
+name = "Roman Numerals for Enchant Icons"
+filename = "Roman Numerals for Enchant Icons (gray).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tlu98af9/versions/KS5PxfEn/Roman%20Numerals%20for%20Enchant%20Icons%20%28gray%29.zip"
+hash-format = "sha512"
+hash = "16ac0151c177b4a249924fe47bf90dd19e58e256f8268a2a61bfc204dbdd02c18dbabed26775717c1f24c61e353df04da3bfbe8358dd3bca1e68fd2ea24a2e68"
+
+[update]
+[update.modrinth]
+mod-id = "tlu98af9"
+version = "KS5PxfEn"

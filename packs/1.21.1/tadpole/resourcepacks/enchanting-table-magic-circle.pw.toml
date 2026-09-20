@@ -1,0 +1,13 @@
+name = "Enchanting Table Magic Circle"
+filename = "Enchanting Table Magic Circle v.2.5 (1.20.5 - 1.21.8).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gLbwPaHh/versions/91XQoqCV/Enchanting%20Table%20Magic%20Circle%20v.2.5%20%281.20.5%20-%201.21.8%29.zip"
+hash-format = "sha512"
+hash = "73b54d3d64bc47c2493d3521d1838e51948d2786eff865ba8fdd727f1c7c294b86a3cf6215f7dc9670c24d4129f46804999f7854380e72ad4311eb4691160d23"
+
+[update]
+[update.modrinth]
+mod-id = "gLbwPaHh"
+version = "91XQoqCV"

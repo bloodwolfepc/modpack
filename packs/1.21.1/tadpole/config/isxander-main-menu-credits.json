@@ -1,0 +1,1 @@
+{"main_menu":{"bottom_right":[{"text":"Tadpole Beta","clickEvent":{"action":"open_url","value":"https://github.com/bloodwolfepc/modpack"}}]},"pause_menu":{"bottom_right":[{"translate":"isxander-main-menu-credits.fabrishot","fallback":"Take 4K screenshots with F9","color":"dark_gray"}]}}

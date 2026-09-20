@@ -1,0 +1,13 @@
+name = "Resource Pack Overrides"
+filename = "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/MIxxajqC/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
+hash-format = "sha512"
+hash = "ff2391f91ccac26260076cecb775fa6426ddbf1e8fb566b3aa33f824ab8375c8c73f233ec369fcf3e6378c95e4506c958314789ca782251a33d2e86e464eb155"
+
+[update]
+[update.modrinth]
+mod-id = "YsFycamt"
+version = "MIxxajqC"
