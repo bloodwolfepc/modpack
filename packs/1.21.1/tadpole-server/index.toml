@@ -196,11 +196,6 @@ hash = "9c30553415e8f35e17cbfc760cd125a7dc603a611f261a153b52ef65138cb519"
 metafile = true
 
 [[files]]
-file = "mods/simple-datapacks.pw.toml"
-hash = "e2eb29db2d0bac8cf4b07078747f4fed2693fd96e45669a766e0c75cb8e0aa0f"
-metafile = true
-
-[[files]]
 file = "mods/structurify.pw.toml"
 hash = "ffca3b8a58a3f4fa409ac5d6210bb4acd4eb24e3099dd7f659b6a55fb442916f"
 metafile = true
