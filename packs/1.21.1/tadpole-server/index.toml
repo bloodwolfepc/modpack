@@ -46,11 +46,6 @@ hash = "3e39d76864c9d949c6fd793149d97480cccbbd114e3c25caf6773b4e612a825b"
 metafile = true
 
 [[files]]
-file = "mods/c2me-ocl.pw.toml"
-hash = "c760ec6f31d49b37bc7c99677d3d48104de86dbffef804fe65ae59893514a194"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
 metafile = true
