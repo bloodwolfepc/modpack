@@ -1,6 +1,6 @@
 name = "Tadpole"
 author = "bloodwolfepc"
-version = "0.3.0"
+version = "0.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
