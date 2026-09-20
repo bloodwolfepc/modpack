@@ -1,0 +1,13 @@
+name = "Vanilla Permissions"
+filename = "vanilla-permissions-0.3.3+1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/fdZkP5Bb/versions/AReshRra/vanilla-permissions-0.3.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "8fbbe41b0c0e135fe917b624dbc825f8c6802136be006936e6f7fa1b9d56e96252a98eb1c2c9a7063b9ee182b27437eb8d9f57a1fabf9972b5bc2de878d8e4b1"
+
+[update]
+[update.modrinth]
+mod-id = "fdZkP5Bb"
+version = "AReshRra"

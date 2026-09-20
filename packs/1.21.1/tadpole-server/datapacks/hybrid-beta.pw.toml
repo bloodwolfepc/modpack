@@ -1,0 +1,13 @@
+name = "Cascades"
+filename = "Cascades-v1.0.4.1-1.21.x.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/GgqDFCRx/Cascades-v1.0.4.1-1.21.x.zip"
+hash-format = "sha512"
+hash = "d7f5e587cce4421f53fff2aa9abc8f7f397ed5af6cc5e88f40013b3e4cd9a33801f9520674aa4caa3a995100ab5d04c4bebd2705c521a76eb60fa768a1c36a9c"
+
+[update]
+[update.modrinth]
+mod-id = "Jmx5kJiS"
+version = "GgqDFCRx"

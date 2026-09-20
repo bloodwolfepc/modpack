@@ -1,0 +1,16 @@
+name = "Tadpole Server"
+author = "bloodwolfe"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "a2be72f62181a5b727fb662903b06a74bb3d4c71e70a9807797f330b5317c68b"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.1"
+
+[options]
+datapack-folder = "datapacks"

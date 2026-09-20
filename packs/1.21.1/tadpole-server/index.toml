@@ -1,0 +1,226 @@
+hash-format = "sha256"
+
+[[files]]
+file = "datapacks/dungeons-and-taverns.pw.toml"
+hash = "20abe9a665ed77b271bd132e646a21d73a057aec4a5e9f6f3889267518d1ec6c"
+metafile = true
+
+[[files]]
+file = "datapacks/explorify.pw.toml"
+hash = "a48ebd804b0e473aaf885a0aa10da75616e52e7460268f085bd64810429876b7"
+metafile = true
+
+[[files]]
+file = "datapacks/hybrid-beta.pw.toml"
+hash = "78058374f9b719d993f90f9d8ade40c1479129fed97ff66c5c1a3ce2841e8ea0"
+metafile = true
+
+[[files]]
+file = "datapacks/towns-and-towers.pw.toml"
+hash = "a068ddf471bcb8c2f607a6c1df6e28c84f04e5e03788acd8e6f8789e766caf17"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "015053563a1d8ef3334560cd27f8e832935a26a96f151f059f814092b8db50a2"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "7e13fd4866e0914226b1a78894da78a6ef3b0712e8e25d25e0b56fb56547a87b"
+metafile = true
+
+[[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "b0e24748243ebef6cf35d7f4c523e002693da0697cf94897d6b1a72fcd160b2c"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "de7bb9eecb68ac760a184374d6c59f24fa905ab11983a0f92b65113ad9d54c9a"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3e39d76864c9d949c6fd793149d97480cccbbd114e3c25caf6773b4e612a825b"
+metafile = true
+
+[[files]]
+file = "mods/c2me-ocl.pw.toml"
+hash = "c760ec6f31d49b37bc7c99677d3d48104de86dbffef804fe65ae59893514a194"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "7fe287ca1bed0ad67f37e62a5816da7b7ae59486102c5e4b7532f0a999444527"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
+file = "mods/configurable.pw.toml"
+hash = "0d842517b64a166b23f33031a77f93f7159a2d9dc5644633f5dceb7b1ad7882c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "7cb9e98526468233fbec6f949c78a8afc5ef29447868e1d11cb71293237966a2"
+metafile = true
+
+[[files]]
+file = "mods/easy-mob-spawn-control.pw.toml"
+hash = "7d7990a156cdcaf074f61c988f1a78653c5ec920bbfd9c43324d3b3775c899ac"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "4f128957cb3715a76e340e35273e9b38e474a0a3798a325f1b0a998db9d5c0c1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "9645e76b2915aa43b0918e1ef20e1c01b64ba9073e35c8bcd70cf34af8ab604e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "b1a2f33743504db0099a8811b5a923ce56261d5aff2770d3a8812654dbd5e85d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "88ce962f82ca2b6ab99ab546031a9406ff053a5078002134b43fe3ab22327e85"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "c12090d1aa1239085a4b3d790900823ad14a40eacbd8fa42d9626d22995a8a80"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/monsters-in-the-closet.pw.toml"
+hash = "0220080e63da514cdfd5ff73355572eba1ebb0202951e12f95740ce413912fb2"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "9065a177da3baa026216d869cf7a3362f0d392b3a0dad2c4aeeac2d1befa7c9b"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "537bdd1937193d94cf47f2232e2b38357415e5af8c950d97661b3ae881adbb4e"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "7273fdb27bffd096608539b8d6356e1203273d96b6996c71c7c5f019ab5cdbc2"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "84cb0dcad9ac46d22adba4fb7924951affa6ac5e46027a3b25fa9a0db8d91b2b"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "2ece712d0a402e159a033248699a63a6ad813f21b4892972e1fec0eafe126594"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "439ed8175c6a9cc67172a76b18b4191205c3ce48d71c4aad845c8fb83e5dc697"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "2272f386d6106a691953f80822614643f0a4ef9df1cbff71fcc02caebd8ad45b"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "570b0f010c431efcaacf5210d9747ad671df80a67509ed61c5fe18cf4c9730b6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "9c30553415e8f35e17cbfc760cd125a7dc603a611f261a153b52ef65138cb519"
+metafile = true
+
+[[files]]
+file = "mods/simple-datapacks.pw.toml"
+hash = "e2eb29db2d0bac8cf4b07078747f4fed2693fd96e45669a766e0c75cb8e0aa0f"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "5920114e78408e06d787a34694bcb7cdd252d723ed70756d55c882d28c2fd165"
+metafile = true
+
+[[files]]
+file = "mods/structurify.pw.toml"
+hash = "ffca3b8a58a3f4fa409ac5d6210bb4acd4eb24e3099dd7f659b6a55fb442916f"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "9f3e865adc7318ec2072cd02a9d7f3dad9e4c1214249c04ebfdefcc39336b2e7"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "99cc4bdfa44196b887c0b6ea48622f89a6a004866a9af47b929dabe5331e2605"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "af20070dd9497817a83162c17b181a0a44f7213ea302d059a81c5aed02d0c877"
+metafile = true

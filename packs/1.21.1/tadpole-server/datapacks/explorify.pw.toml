@@ -1,0 +1,13 @@
+name = "Explorify"
+filename = "Explorify v1.6.5.dp.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HSfsxuTo/versions/BKKKBD2V/Explorify%20v1.6.5.dp.zip"
+hash-format = "sha512"
+hash = "9ca01672759e9a84a14e3424f1a779bde3fdaad3bf77b853961e0a5902c4bbee0ab970adf5638e1e6934e0a70d926221caa8d89f29e6f88d56b73aad9ae4fb6b"
+
+[update]
+[update.modrinth]
+mod-id = "HSfsxuTo"
+version = "BKKKBD2V"

@@ -1,0 +1,13 @@
+name = "Towns and Towers"
+filename = "t_and_t-datapack-1.21.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DjLobEOy/versions/cyBYEaKz/t_and_t-datapack-1.21.1.zip"
+hash-format = "sha512"
+hash = "afd66a2d5a93958b6fd54b8ab80d9c5e5b340f374f29ae0faec7c23ea21bb8f73b7a812b4ad213a6759b9da3ef25e3e5b4e5faf35544910c920893ef743a1f6c"
+
+[update]
+[update.modrinth]
+mod-id = "DjLobEOy"
+version = "cyBYEaKz"
