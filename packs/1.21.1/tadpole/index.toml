@@ -53,6 +53,10 @@ file = "config/yosbr/config/controlify.json"
 hash = "8c79b471bad59fcb9d73c4689dd6687be63facefd73a17f11f1bf4acf00c158d"
 
 [[files]]
+file = "config/yosbr/config/craftpresence.json"
+hash = "dd24dc9219a6d41012be9ca3f35c28f4b7af75e110432c3fea7df622c3f2049b"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "93fc7a6a3e64ffb2e78a5830cfa026c39a4ae8f01b46dadf301843fefc688fbd"
 
@@ -146,7 +150,7 @@ hash = "37d8fead007ffaaeab9956938bf18ae9a42f977f8c3bba5bdecec9612782add1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "3dc76e57b4e1c6f6cd121732a5685855823e449adb97abbbf3aebeaf68a05183"
+hash = "ec89259ce45faed4601133ad8e1eddcdfe2a7e68b3d14a50302d387588f27016"
 
 [[files]]
 file = "config/yosbr/servers.dat"

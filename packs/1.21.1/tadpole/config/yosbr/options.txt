@@ -21,3 +21,5 @@ key_iris.keybind.toggleShaders:key.keyboard.unknown
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
+key_keybind.custom_crosshair_mod.open_edit_crosshair_gui:key.keyboard.grave.accent
+key_gui.xaero_toggle_map:key.keyboard.n
