@@ -16,6 +16,11 @@ hash = "78058374f9b719d993f90f9d8ade40c1479129fed97ff66c5c1a3ce2841e8ea0"
 metafile = true
 
 [[files]]
+file = "datapacks/structory.pw.toml"
+hash = "99be57eaf49dca77e105677f216f5828412ed7356aad2e60b09a54fa47d5659c"
+metafile = true
+
+[[files]]
 file = "datapacks/towns-and-towers.pw.toml"
 hash = "a068ddf471bcb8c2f607a6c1df6e28c84f04e5e03788acd8e6f8789e766caf17"
 metafile = true
@@ -193,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/simple-datapacks.pw.toml"
 hash = "e2eb29db2d0bac8cf4b07078747f4fed2693fd96e45669a766e0c75cb8e0aa0f"
-metafile = true
-
-[[files]]
-file = "mods/structure-layout-optimizer.pw.toml"
-hash = "5920114e78408e06d787a34694bcb7cdd252d723ed70756d55c882d28c2fd165"
 metafile = true
 
 [[files]]
