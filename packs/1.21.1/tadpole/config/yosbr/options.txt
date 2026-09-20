@@ -2,6 +2,8 @@ version:3955
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
 enableVsync:false
+fov:0.5
+fovEffectScale:1.0
 guiScale:3
 joinedFirstServer:true
 maxFps:260

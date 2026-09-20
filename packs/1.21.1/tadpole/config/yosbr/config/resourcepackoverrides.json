@@ -21,7 +21,6 @@
     "file/Enchanting Table Magic Circle v.2.5 (1.20.5 - 1.21.8).zip",
     "file/Roman Numerals for Enchant Icons (gray).zip",
     "file/Fancy Crops v1.3.zip",
-    "file/Gentler Weather Sounds 2.3.0.zip",
     "file/Os' Colorful Grasses (Short and Fluffy).zip",
     "file/Os' Colorful Cobblestone.zip",
     "file/Multi-Color Flowering Vines.zip",
@@ -37,21 +36,9 @@
     "force_compatible" : true
   },
   "pack_overrides": {
-    "vanilla": {
-      "title": "Vanilla Assets"
-    },
-    "fabric": {
-      "title": "Fabric"
-    },
     "server": {
       "default_position": "BOTTOM",
       "force_compatible": true
-    },
-    "high_contrast": {
-      "title": "High Contrast"
-    },
-    "programmer_art": {
-      "title": "Programmer Art"
     }
   }
 }

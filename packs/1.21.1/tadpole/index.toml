@@ -10,7 +10,7 @@ hash = "93fc7a6a3e64ffb2e78a5830cfa026c39a4ae8f01b46dadf301843fefc688fbd"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ce9e2cf8c38d58e24bb6be35a93c6e6853b99606dbaacba73645b8250f8b6fb0"
+hash = "fd12b1a6f1d4802d2d1c17f83dc078e4e034345d4b598eb35b0158c4910c42cf"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -66,7 +66,7 @@ hash = "c27c2904c6857c9429afe2fb0f516a16a7f520c047a26c9c179d44ec133400ad"
 
 [[files]]
 file = "config/yosbr/config/fabric_loader_dependencies.json"
-hash = "1d73ce611af8815915105b8a523c7a535e3bbc8a015a9e14c03ddeb2afbde7c6"
+hash = "dc485a4086e9d865b4b6f508da49d86dc9852689a15d40c98bf33322016e0291"
 
 [[files]]
 file = "config/yosbr/config/fabrishot.properties"
@@ -101,12 +101,20 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
 
 [[files]]
+file = "config/yosbr/config/particlerain/config.json"
+hash = "75ff7dc9194e7a5be955fffa15dabed311e7b788acdfd4aeba774998ddd33a10"
+
+[[files]]
+file = "config/yosbr/config/particlerain/particles.json"
+hash = "27370880e03e4885de402dd3a903beece503ba68eebabfa1f2d7bb1c268284a9"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "2c7db9d27f76937cb5fc1bb34f0cd03b3bd4ac36ac42685b461f972720515c3d"
+hash = "ad613f400a184a70ee9009c5157905c4a2f2610100ba813a6a25bea3d8807f14"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
@@ -125,8 +133,20 @@ file = "config/yosbr/config/structurify.json"
 hash = "2dc4de161fbd5254f91eeee796f5aa16aed00cc230afda02ff7cd61c51149723"
 
 [[files]]
+file = "config/yosbr/config/xaero/minimap/profiles/default.cfg"
+hash = "f9ce478a7263a91a9234e4b6414fce1e4b1a62968350d0557d594d1ff78bab74"
+
+[[files]]
+file = "config/yosbr/config/xaero/world-map/profiles/default.cfg"
+hash = "e603df1e35dc6a8db074fd4fb6838a04c69eed1d6c6214a5acb39b5b0bbfa2a3"
+
+[[files]]
+file = "config/yosbr/crosshair_config.ccmcfg"
+hash = "37d8fead007ffaaeab9956938bf18ae9a42f977f8c3bba5bdecec9612782add1"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "fe5049ccb7356e3702e46c4376f11344efa6e1571893c95d18a856ab9312dfa9"
+hash = "3dc76e57b4e1c6f6cd121732a5685855823e449adb97abbbf3aebeaf68a05183"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -173,6 +193,21 @@ hash = "1992bbbb39181508eb2ad8d139c7c82ea4b41cb2e53e9f2012c35d2bd7927de0"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "b97914d02e3e24091a3fed92803b409ba5a3773668d81292b99e1cd735184996"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "7d1815ec4f2098c4de8b01494373d84da8a5104accd5ae028a2a020595646082"
 metafile = true
@@ -190,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "9172ca87ac7ae3b3c51ae9e9ea1e01390e4ecd4c5aa89b2c96543f8b0c8e9b8d"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "5d0697933c7714e41fc1fafaaff08ddf0ad58c9c5426fb5fdb5688779582d84f"
 metafile = true
 
 [[files]]
@@ -215,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
+metafile = true
+
+[[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "d0fd3fc7e4a67154cc01657b315d735b8d2e8acbe24001662a95ab1e157cb20c"
 metafile = true
 
 [[files]]
@@ -245,6 +290,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "c813b1d59264a2e248547f28775925ffd1c4484e16093069c486455e74a2b7d9"
+metafile = true
+
+[[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "deb2af943ebcceb5b2d5d50c1c50b9d5921d75d30170dfe1f019a9c1e596ef60"
 metafile = true
 
 [[files]]
@@ -393,6 +443,11 @@ hash = "e497cf3e707aa2defd69bca6b014b39e409c6b276e9dc2afd78790bd25f55d92"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "fff8a2be1fb3b3ae91e05c67fe783a81787c2f76aa5f121743699255753a0b4c"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "c721063b3afe83d2f4df4960888e8de083d4ce87a485380af36dc1dd71ff917e"
 metafile = true
@@ -448,13 +503,33 @@ hash = "15df6d21580f14c70ae237cbe794911101897664fdfd913ff47c6b39cb671d11"
 metafile = true
 
 [[files]]
-file = "mods/srdp.pw.toml"
-hash = "9a617e0dcbda26d1adf62bfa3212774e7d75ed85830f259c368442dbe04bd341"
+file = "mods/structurify.pw.toml"
+hash = "ffca3b8a58a3f4fa409ac5d6210bb4acd4eb24e3099dd7f659b6a55fb442916f"
 metafile = true
 
 [[files]]
-file = "mods/structurify.pw.toml"
-hash = "ffca3b8a58a3f4fa409ac5d6210bb4acd4eb24e3099dd7f659b6a55fb442916f"
+file = "mods/tcdcommons.pw.toml"
+hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "6cd6d6444d9180c0268327776e247bb5bd3b5c14cc6fa99860a5ed82fccf771e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "a00158a640285545d232f5f9e82e5102ea4a9246f7897b4ff9f3f7544d5f288a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "fb245abdce152a31eae431d6d7340c69ad899ca35b6f71e12d840cc15e1e861a"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "2eb3c165dd197d5a7356367fbd6e740f319966920f7eef1e33432e320a1c3683"
 metafile = true
 
 [[files]]
@@ -534,11 +609,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gentler-weather-sounds.pw.toml"
-hash = "ee16d89388c43322e39f55d4054cd9077a5d421ed34b47b689643c38854e96f5"
 metafile = true
 
 [[files]]
