@@ -1,10 +1,10 @@
 # Tadpole
 
 ## Screenshots
-![1](./assets/1)
-![5](./assets/5)
-![2](./assets/2)
-![9](./assets/9) 
+![1](./assets/1.png)
+![5](./assets/5.png) 
+![3](./assets/3.png)
+![2](./assets/2.png)
 
 ### Info
 Tadpole is a fabric Modpack focused on performance, customization, aesthetics and cuteness. This pack uses a handful of well know QOL from modrinth and has opionated sensible defaults. There are no Mods in this pack which prevent joining vanilla servers.
