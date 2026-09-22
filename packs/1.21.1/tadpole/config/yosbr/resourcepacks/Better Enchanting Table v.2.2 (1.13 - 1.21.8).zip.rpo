@@ -1,0 +1,5 @@
+{
+    color: "purple",
+    useRug: true,
+    useEmissiveTextures: true
+}

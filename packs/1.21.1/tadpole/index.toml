@@ -41,6 +41,10 @@ file = "config/yosbr/config/betterf3.json"
 hash = "94aeb81f4ea8d4414c37e6d5027407804b1fc62c94cafd0ff779e6ba29f66484"
 
 [[files]]
+file = "config/yosbr/config/betterthirdperson.json5"
+hash = "e7c66aa350f07b3b5f7e0fbc70c290c51e59ef027850d82d7b63d2449bb30353"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
 hash = "7de3087b5a435f770ed45b1b73ac9b37f3d36ab2fd71a1404d7a49e299738821"
 
@@ -63,6 +67,10 @@ hash = "93fc7a6a3e64ffb2e78a5830cfa026c39a4ae8f01b46dadf301843fefc688fbd"
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
 hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
+
+[[files]]
+file = "config/yosbr/config/emi.css"
+hash = "c89b97641a36e83c364d949d7b2d41cc0ec4f8595afbec07c853a7a76cd0a75d"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -89,12 +97,24 @@ file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "725999279dbbeefb85b472e95f739aacdd6fe210bad21113575f505b2419dcee"
 
 [[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "c1f20bf0838258778815683811718235e382eb1d4738a4d470e71f56ab57e9b5"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "326ec0c840e65aedf5c6048ea6016d551be38cf23f692949e105a4a388ad8be7"
 
 [[files]]
+file = "config/yosbr/config/lighty/base.config"
+hash = "518a1ae777083216b1d598b9f94e140bcb3737373f699a6b40002c573e68feff"
+
+[[files]]
 file = "config/yosbr/config/midnightlib.json"
 hash = "57b848fb6d7c03b6124297de49b1e4cb169e74db042c74aecf79f035ae2f3980"
+
+[[files]]
+file = "config/yosbr/config/mindfuldarkness-client.toml"
+hash = "e46611582cbbfaa9acae06efdeca1b889abd2c9cd1493248d15b988fec75280f"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -103,6 +123,10 @@ hash = "e53104e83354db98131da8bcfca3d82a20aef6acbbf017eaeb3f27e72b746c58"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "60eb0902eac918d39fb5eb7df66314f5748aef0259b4ad5bdeacd27dfff120ca"
+
+[[files]]
+file = "config/yosbr/config/overlaytweaks.json"
+hash = "751d574738efc292e61fde7705312c137c7feffe48d900c2eb7f8d45ea2939a6"
 
 [[files]]
 file = "config/yosbr/config/particlerain/config.json"
@@ -117,12 +141,24 @@ file = "config/yosbr/config/puzzle.json"
 hash = "4449fb9b3440c4367f861d0f8e75b879caf6c897cb47569f13929ca37d6c864d"
 
 [[files]]
+file = "config/yosbr/config/quickskin-client.bu"
+hash = "b53a1138a5b47ef4385b8e2ea574efa5d68fde53753c1f774bedb688fcd3b2dc"
+
+[[files]]
+file = "config/yosbr/config/quickskin-client.json"
+hash = "f2ae66d96fd77ddcbf2683cf54ddc83e018ec7385fbde8c05d6d2606bf644996"
+
+[[files]]
 file = "config/yosbr/config/resourcepackoverrides.json"
-hash = "ad613f400a184a70ee9009c5157905c4a2f2610100ba813a6a25bea3d8807f14"
+hash = "3bde268cc6c8582ec7bfa1fa0bc21ef4847bba13fcb59c38391526b01d5d9331"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
 hash = "59fa5a7fdbcc83cc2dd9a23542d0f950d2e6ba64c368b456c4afc5f8900d8e1d"
+
+[[files]]
+file = "config/yosbr/config/showmeyourskin.json"
+hash = "b2e0f8ab5990535216fa309eac71f2380d55efcecf8d7c6bbf02339c6b2480b3"
 
 [[files]]
 file = "config/yosbr/config/simple_datapacks.json"
@@ -150,7 +186,15 @@ hash = "37d8fead007ffaaeab9956938bf18ae9a42f977f8c3bba5bdecec9612782add1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "ec89259ce45faed4601133ad8e1eddcdfe2a7e68b3d14a50302d387588f27016"
+hash = "f58ff6219fe6b84cbc04d827f964ab9c577d570437318c32966e402df7a61867"
+
+[[files]]
+file = "config/yosbr/resourcepacks/Better Enchanting Table v.2.2 (1.13 - 1.21.8).zip.rpo"
+hash = "827aca617407778fb47b2b698e70bc56ea7e0160eef43793eb40704d1c50e1c3"
+
+[[files]]
+file = "config/yosbr/resourcepacks/Enchanting Table Magic Circle v.2.5 (1.20.5 - 1.21.8).zip.rpo"
+hash = "3ff13e6fb9548f349b9460cac7ddb71b1bcf21243ec78286b6494c060483880e"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -187,8 +231,18 @@ hash = "8d880605a7d40af25b6ba3f403b9eb9d650727acb4e1df1a0e16f0de46cbc58e"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0fb3808193da9b587367337d12d202d7b006e2522637a6502913d66a84f8626f"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
@@ -227,6 +281,11 @@ hash = "2590dec096c079e7df29bd25ad5706fc7356bf27c25463ddf7140fb11766b69b"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "6d4de3bf124c98a61c022477e07c8386940d4804001f5f71b322c9b1b74cb5c2"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "9172ca87ac7ae3b3c51ae9e9ea1e01390e4ecd4c5aa89b2c96543f8b0c8e9b8d"
 metafile = true
@@ -237,6 +296,11 @@ hash = "5d0697933c7714e41fc1fafaaff08ddf0ad58c9c5426fb5fdb5688779582d84f"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "e5196147e561521c5a3ebaea601191e442d252cc8f0a7be8ba8db136f93c44fe"
+metafile = true
+
+[[files]]
 file = "mods/citresewn.pw.toml"
 hash = "96f48659cd5792581df59f735d1326eba0abbbe054f748420796d72dc2a3e683"
 metafile = true
@@ -244,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "d12e7481ae9b34a30d20adf577d6f57ddb56359ced7f84e8ea81249396f2be7a"
+metafile = true
+
+[[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "88638cfdc25efcc9145417cbc1f77ecde737343d8feacb16f515eec6a933e7f8"
 metafile = true
 
 [[files]]
@@ -297,8 +366,23 @@ hash = "c813b1d59264a2e248547f28775925ffd1c4484e16093069c486455e74a2b7d9"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "12454e952e63327a16ee3d44c09f035e4b97fd7c2709b45b267e362db78063b5"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "a0a3d38daafb58117aaf29bb0b0520534abb7175e8d98f63cb47a65c75afac79"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "deb2af943ebcceb5b2d5d50c1c50b9d5921d75d30170dfe1f019a9c1e596ef60"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "9473554d1bd68148f23f4f0f09023cd44a85eed6b639c812eab7759110ac1e81"
 metafile = true
 
 [[files]]
@@ -357,6 +441,16 @@ hash = "ff33ad0d73acaa759adefc5906653fe09cad80c0e092151e755fd01a37e8e619"
 metafile = true
 
 [[files]]
+file = "mods/flightspeed.pw.toml"
+hash = "073854ca75595307155ec9dd0c29b88a8b27bc3730c8234c9b23f37b04dab666"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "238b3ceb4214a682480ce00eefae5d34efa299ff6ff667e4b2f2ed503c6e76ee"
+metafile = true
+
+[[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "73ac629f7eda36b825b975b7761e10879556a2711fb0c07bb4d57c78f33e801d"
 metafile = true
@@ -377,6 +471,21 @@ hash = "e379dcd9dfc17994be22c8ebd94ddb3e61c5e8498ba9a4f3e79b4e07ae253b43"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "fd56a0cff0fa0172c35309f52e7bf76731abde661b03977bc8380bba687cbe98"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "857783dc720429150ded2c4d6e71ce5045334039a22a23c7d06629235e4e96d8"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "334701aa0b0a795ae1d61edb4f8a325a0439f61f298012f025480fb2bdb5e8e7"
+metafile = true
+
+[[files]]
 file = "mods/lambdynlights.pw.toml"
 hash = "bf16c3ef0ec59a450b3f4bb16b10d40712f41489c465e053f64b0680be195aa1"
 metafile = true
@@ -392,13 +501,28 @@ hash = "665e23915780bf20d98f0c5b245b473324b90bad9c6ab93840f8bba4bbead6ae"
 metafile = true
 
 [[files]]
+file = "mods/lighty.pw.toml"
+hash = "237f61291d7f6cbfe8bafd6fc22657000adc2b8de269061eb81b6eb21d3ea5d1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "ceda99f9d99daab1a65af260cba0c7df32fafebba5639a58086f32cca9e7f41d"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "084b4594cdb55d062683461c93467fb9e54641cf1d9e1e315b559909aa74aeec"
+metafile = true
+
+[[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "647807ff387e333abd790b47082a3cf6b7d41a2b27a4337ff65a611f096a7315"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "d70177535b81d2f9c35843c031a664945e6520122372137ad523b1de4aba63fc"
 metafile = true
 
 [[files]]
@@ -432,6 +556,11 @@ hash = "0fc1cc33b8c28a719f7abe52074df2b39d33b41ddf26665f7c37d98d1c804dd2"
 metafile = true
 
 [[files]]
+file = "mods/multi-key-bindings.pw.toml"
+hash = "ff5e085a5703a282aeb475f789e609d73f619c8628bdaa6591289a510addcf22"
+metafile = true
+
+[[files]]
 file = "mods/nochatreports.pw.toml"
 hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
@@ -439,6 +568,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "0b5cd0dc122ad2ed242cc03cb9f777561bcb74bfe6aea16db801a6ccf347eaeb"
+metafile = true
+
+[[files]]
+file = "mods/overlaytweaks.pw.toml"
+hash = "6925b59e88f55bc5d431845f2c580051eb6920928f428826a2ebb34c005bc1e7"
 metafile = true
 
 [[files]]
@@ -457,8 +591,28 @@ hash = "c721063b3afe83d2f4df4960888e8de083d4ce87a485380af36dc1dd71ff917e"
 metafile = true
 
 [[files]]
+file = "mods/prickle.pw.toml"
+hash = "122659d423e8fe5c47b4121bf382e5ceea0ea2c644cd0a08d577cf58ef55d495"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "5cb1c80e19ef8732099fb99b7132556cf76b4f6a1c0120af746c1cf13630e965"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "2ece712d0a402e159a033248699a63a6ad813f21b4892972e1fec0eafe126594"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "439ed8175c6a9cc67172a76b18b4191205c3ce48d71c4aad845c8fb83e5dc697"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "ba1ad1f30a2269cc6c3b459811e565fd2014df1a023e890f2b71dd51d2ef2809"
 metafile = true
 
 [[files]]
@@ -492,6 +646,11 @@ hash = "8302da862578554b012b2cfe58a3c1e75b514d09f94d842e7303be41a2157aeb"
 metafile = true
 
 [[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "26a06bacc278a6541cdf6a1301210167031cf2398fa3467df7e5b87092afe37f"
+metafile = true
+
+[[files]]
 file = "mods/simple-datapacks.pw.toml"
 hash = "f754821f6086463265903425338eb4728410fa87c33b995b35290665b20546b2"
 metafile = true
@@ -514,6 +673,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "ffa71e1ce188b71291daa8bb67e8094ff7d0ef695add362200591c28e75cf457"
+metafile = true
+
+[[files]]
+file = "mods/too-many-binds.pw.toml"
+hash = "8d1d56297db89909c4f240f4201f29fc32f8e3734e164c17c31fa5c3b8d56d56"
 metafile = true
 
 [[files]]
@@ -544,6 +708,16 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8f353eed81effd44cc2de464f33e3c772129b15389d2427167c174784400bd23"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "735995fbc0515fd4bf94fa9a6060ada43620827cfaa9c6dae5d74d7bacc6259e"
 metafile = true
 
 [[files]]
@@ -601,6 +775,11 @@ hash = "4baf84085b9ab13524264e3a949cd97e3394d1445849be3b8ccd6c4de2c06677"
 metafile = true
 
 [[files]]
+file = "resourcepacks/classic-glint.pw.toml"
+hash = "7cc0a3752a55ea7d4bceb19d27790c3ea1cd0c351ab7260bd5e67880d8ec1c61"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
 metafile = true
@@ -611,8 +790,18 @@ hash = "8c2d8e326e701c87f66ef402e28f35ae3aef2130404507f5a9e24cdafdf82d65"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enhanced-flower-pots.pw.toml"
+hash = "3a0e38f166b1ee045ed6ebd9af1694cc271471aa48dfa3e0b0fe8bb3df5e2268"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fancy-crops.pw.toml"
 hash = "b843c282f94af79a4970c91879eff4073932409aa045b722b48054bd4b2fd45d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/flower-clusters.pw.toml"
+hash = "02e238232ba5c816ce02634631fe37b7f7227370fcefc3ffffcf7b32e395151c"
 metafile = true
 
 [[files]]

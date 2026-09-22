@@ -1,0 +1,4 @@
+{
+    useAnimatedTextures: "bruteforce",
+    magicCircleColor: "purple"
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "failed_reloads_per_session" : 5,
+  "failed_reloads_per_session": 5,
   "default_packs": [
     "vanilla",
     "fabric",
@@ -24,6 +24,8 @@
     "file/Os' Colorful Grasses (Short and Fluffy).zip",
     "file/Os' Colorful Cobblestone.zip",
     "file/Multi-Color Flowering Vines.zip",
+    "file/Enhanced Flower Pots V1-9.zip",
+    "file/Flower Clusters 1.2.zip",
     "file/Bushy pink petals, wildflowers  leaf litter.zip",
     "file/RAYs_3D_Ladders_v2.2.zip",
     "file/RAYs_3D_Rails_v3.2.zip",
@@ -33,7 +35,7 @@
     "file/Os' Colorful Leaves (&Litter).zip"
   ],
   "default_overrides": {
-    "force_compatible" : true
+    "force_compatible": true
   },
   "pack_overrides": {
     "server": {

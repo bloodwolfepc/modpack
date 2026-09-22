@@ -1,0 +1,13 @@
+name = "Enhanced Flower Pots"
+filename = "Enhanced Flower Pots V1-9.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jyZfZovk/versions/7jcsgAVl/Enhanced%20Flower%20Pots%20V1-9.zip"
+hash-format = "sha512"
+hash = "bd402c34cab8bb17ca0b5592244bfe4f2a49e6939056dd728cbcdd03d93fa516cd696f409997327d911eac1f4f13b71f97b7fdedcf724640c399dff8dca14c74"
+
+[update]
+[update.modrinth]
+mod-id = "jyZfZovk"
+version = "7jcsgAVl"
